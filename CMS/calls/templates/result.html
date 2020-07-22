@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block head %}
+<style type="text/css">
+
+	body{
+		background-image: url("/media/bg.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+</style>
+{% endblock %}
+
+{% block title %}
+Result
+{% endblock %}
+
+{% block content %}
+	<table border="1">
+		{% for result_line in result %}
+		<tr>
+			{% for result_record in result_line %}
+			<td>
+				{{result_record}}&nbsp &nbsp &nbsp
+			</td>
+			{% endfor %}
+		</tr>
+		{% endfor %}}
+	</table>
+
+{% endblock %}

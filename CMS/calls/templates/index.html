@@ -1,0 +1,79 @@
+{% extends 'base.html' %}
+
+{% block title %}
+
+Call Management Portal
+
+{% endblock %}
+
+{% block content %}
+
+{% if exception %}
+
+<div class="alert alert-warning">
+
+  <strong>Warning!</strong> Please select the files Correctly.
+
+</div>
+
+{% endif %}
+
+<br><br><br>
+
+<form method="post" enctype="multipart/form-data">
+
+	{% csrf_token %}<! cross-site thieft forgery token >
+
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+
+	Upload IVR data Here: &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <input type="file" name="ivr" />
+
+	<br>
+
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+
+	Upload Mobile data Here: &nbsp &nbsp &nbsp <input type="file" id="file" name="mobile" style="margin-bottom: 20px;" />
+
+	<br><br>
+
+	<div class="col-md-6">
+
+		<button type="submit" id="submit" style="margin-left: 650px;" disabled="disabled">Submit</button>
+
+	</div>
+
+</form>
+
+<script>
+
+	$(document).ready(function(){
+	$('#file').change(function(){
+		$('#submit').removeAttr('disabled');
+	});
+});
+
+</script>
+
+<br><br>
+
+{% if result %}
+
+<div class="row">
+
+	<div class="col-md-6">
+
+		<a href="{% url 'ivr_histogram' %}" target="_blank"><button>Data Analytics</button></a>
+
+	</div>
+
+	<div class="col-md-6">
+
+		<a href="{% url 'result' %}" target="_blank"><button>Result</button></a>
+
+	</div>
+
+</div>
+
+{% endif %}
+
+{% endblock %}

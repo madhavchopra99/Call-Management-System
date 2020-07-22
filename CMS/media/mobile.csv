@@ -1,0 +1,885 @@
+UID,Event,Type,Status,From,Name,Country,State,"Duration if call",Time,"User detail","Department(if any)","Log source","Star marked","Text if SMS ","Any note",Billable,Pulse,"Leg B rate","Leg B minutes"
+5d2d9ba9a0049202,Outgoing,Call,Missed,"+91 8377938965","A K Pandey Fashionsquare",IN,DL,0,"16-Jul-2019, 3:09 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d9b5f75255376,Outgoing,Call,Connected,"+91 7827352096","Khaki Jio",IN,DL,138,"16-Jul-2019, 3:07 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d9a350eacb885,Incoming,Call,Connected,"+91 9717014242","Nitin Tewari Bacardi",IN,DL,101,"16-Jul-2019, 3:02 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d8e0f214d5419,Outgoing,Call,Connected,"+91 9899005902",,IN,DL,53,"16-Jul-2019, 2:11 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d87bddf4c5187,Incoming,Call,Connected,"+91 9811611074",,IN,DL,98,"16-Jul-2019, 1:43 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d86f4242f3935,Outgoing,Call,Connected,"+91 9811611074",,IN,DL,115,"16-Jul-2019, 1:40 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d86651402e239,Incoming,Call,Missed,"+91 9811611074",,IN,DL,0,"16-Jul-2019, 1:36 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d84b23e075737,Incoming,Call,Missed,"+91 4461198313",,IN,TN,0,"16-Jul-2019, 1:32 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d810c143cd613,Incoming,Call,Missed,"+91 9654894221","Himani Gill MMT",IN,DL,0,"16-Jul-2019, 1:16 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d7dfae5c16375,Outgoing,Call,Connected,"+91 9810332785","S S Inquiry",IN,DL,120,"16-Jul-2019, 1:01 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d7d23f17d0378,Incoming,Call,Missed,"+91 9894760859",,IN,TN,0,"16-Jul-2019, 1:00 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d7c9fa4f25222,Incoming,Call,Missed,"+91 9810332785","S S Inquiry",IN,DL,0,"16-Jul-2019, 12:57 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d7c5683fac552,Incoming,Call,Connected,"+91 1244628907",,IN,DL,206,"16-Jul-2019, 12:53 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d7aa62c9d8717,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,28,"16-Jul-2019, 12:49 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d791ee09b1610,Incoming,Call,Connected,"+91 6394221717",,IN,UE,39,"16-Jul-2019, 12:42 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d776ed6b14636,Incoming,Call,Connected,"+91 9811770606",,IN,DL,140,"16-Jul-2019, 12:33 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d76ac4014a606,Outgoing,Call,Missed,"+91 6394221717",,IN,UE,0,"16-Jul-2019, 12:32 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d74b7c8f08524,Incoming,Call,Missed,"+91 6394221717",,IN,UE,0,"16-Jul-2019, 12:24 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d701d5bb04413,Outgoing,Call,Missed,"+91 8104318190",,IN,MU,0,"16-Jul-2019, 12:04 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d6fb78af38985,Outgoing,Call,Missed,"+91 8104318190",,IN,MU,0,"16-Jul-2019, 12:03 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d6f3926661148,Outgoing,Call,Connected,"+91 9891244866",,IN,DL,167,"16-Jul-2019, 11:58 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d69627ff7e283,Incoming,Call,Connected,"+91 8104318190",,IN,MU,41,"16-Jul-2019, 11:35 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d68af8563e569,Incoming,Call,Missed,"+91 9212400240","Indiyaah Inn Nitin Inquiry",IN,DL,0,"16-Jul-2019, 11:32 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d662b60054365,Incoming,Call,Connected,"+91 8081909086","Sharad Perch",IN,UE,21,"16-Jul-2019, 11:22 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d64c556d91885,Incoming,Call,Connected,"+91 9599446017","Sapna Gulati Tatrapack",IN,DL,31,"16-Jul-2019, 11:15 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d648d519c1382,Incoming,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,23,"16-Jul-2019, 11:15 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d645d2b2ae689,Outgoing,Call,Missed,"+91 8285441021","Suresh Perch Villa",IN,DL,0,"16-Jul-2019, 11:14 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d640e27585173,Outgoing,Call,Missed,"+91 8285441021","Suresh Perch Villa",IN,DL,0,"16-Jul-2019, 11:12 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d6352cad28711,Incoming,Call,Connected,"+91 9855835567",,IN,PB,217,"16-Jul-2019, 11:06 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d620f2a6ce855,Outgoing,Call,Connected,"+91 8101336375","Nimit Niroula",IN,WB,151,"16-Jul-2019, 11:02 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d5db888d13620,Outgoing,Call,Connected,"+91 1244370742",,IN,DL,189,"16-Jul-2019, 10:43 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d5cda2c000324,Outgoing,Call,Missed,"+91 8081909086","Sharad Perch",IN,UE,0,"16-Jul-2019, 10:42 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d5ca41bc20983,Outgoing,Call,Connected,"+91 9654272007","Shaurya Sir",IN,DL,18,"16-Jul-2019, 10:41 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d58dd5b3b5437,Outgoing,Call,Missed,"+91 9599446017",,IN,DL,0,"16-Jul-2019, 10:25 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d58b0bc744198,Incoming,Call,Connected,"+91 9599446017",,IN,DL,131,"16-Jul-2019, 10:22 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d57a88db60257,Incoming,Call,Missed,"+91 9599446017",,IN,DL,0,"16-Jul-2019, 10:20 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d4aca04d8f325,Outgoing,Call,Connected,"+91 9212400240","Indiyaah Inn Nitin Inquiry",IN,DL,25,"16-Jul-2019, 8:36 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2d4acaa118f164,Incoming,Call,Missed,"+91 9212400240","Indiyaah Inn Nitin Inquiry",IN,DL,0,"16-Jul-2019, 7:13 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d4ac9dc3d1164,Incoming,Call,Missed,"+91 9212400240","Indiyaah Inn Nitin Inquiry",IN,DL,0,"16-Jul-2019, 7:11 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2d4ac95629c485,Incoming,Call,Missed,"+91 7268869828",,IN,,0,"16-Jul-2019, 2:16 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2ca98384a2d915,Incoming,Call,Connected,"+91 9212400240","Indiyaah Inn Nitin Inquiry",IN,DL,55,"15-Jul-2019, 9:56 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2ca631038af446,Outgoing,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,705,"15-Jul-2019, 9:31 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2ca3621d526269,Outgoing,Call,Missed,"+91 9212400240","Indiyaah Inn Nitin Inquiry",IN,DL,0,"15-Jul-2019, 9:30 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c9bebbd6e1437,Incoming,Call,Connected,"+91 8826717095","Utsav Perch Arbor Golf Course",IN,DL,113,"15-Jul-2019, 8:57 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c9b2f395db169,Outgoing,Call,Connected,"+91 8826717095","Utsav Perch Arbor Golf Course",IN,DL,138,"15-Jul-2019, 8:53 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c997596283573,Incoming,Call,Connected,"+91 9599396117",,IN,DL,83,"15-Jul-2019, 8:47 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c98b95cf09695,Outgoing,Call,Missed,"+91 8010102837",,IN,DL,0,"15-Jul-2019, 8:41 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c98bab72f4612,Outgoing,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,22,"15-Jul-2019, 8:37 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c966360fc2499,Outgoing,Call,Missed,"+91 8010102837",,IN,DL,0,"15-Jul-2019, 8:35 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c9663de449892,Outgoing,Call,Connected,"+91 7827352096","Khaki Jio",IN,DL,62,"15-Jul-2019, 8:34 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c93d80fdc3654,Outgoing,Call,Missed,"+91 8010102837",,IN,DL,0,"15-Jul-2019, 8:22 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c92f826e4d882,Incoming,Call,Missed,"+91 9899805197","Madhu Mam",IN,DL,0,"15-Jul-2019, 8:15 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c8e9a5c414550,Incoming,Call,Missed,"+91 8010102837",,IN,DL,0,"15-Jul-2019, 8:01 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c8e49d763b666,Incoming,Call,Connected,"+91 9212400240","Indiyaah Inn Nitin Inquiry",IN,DL,129,"15-Jul-2019, 7:58 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c8d9a8993f602,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,58,"15-Jul-2019, 7:56 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c8d9a02f6b210,Incoming,Call,Connected,"+91 7838822984","Kailash Perch",IN,DL,65,"15-Jul-2019, 7:53 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c8bafed2f0662,Incoming,Call,Missed,"+91 9963941812",,IN,AP,0,"15-Jul-2019, 7:49 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c8b4cd1f01115,Incoming,Call,Missed,"+91 9963941812",,IN,AP,0,"15-Jul-2019, 7:48 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c84b5a68de116,Incoming,Call,Connected,"+91 9711220029",,IN,DL,10,"15-Jul-2019, 7:20 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c84b34fe5b945,Outgoing,Call,Missed,"+91 9711220029",,IN,DL,0,"15-Jul-2019, 7:20 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c84a60fd35400,Outgoing,Call,Missed,"+91 9711220029",,IN,DL,0,"15-Jul-2019, 7:20 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c849957676725,Outgoing,Call,Connected,"+91 9711220029",,IN,DL,22,"15-Jul-2019, 7:19 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c83e219079373,Outgoing,Call,Connected,"+91 8889051513",,IN,MP,35,"15-Jul-2019, 7:16 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c838c22649683,Outgoing,Call,Missed,"+91 8920662658",,IN,DL,0,"15-Jul-2019, 7:15 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c8274baa07990,Outgoing,Call,Connected,"+91 9818806315",,IN,DL,14,"15-Jul-2019, 7:10 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c8210e6693825,Outgoing,Call,Missed,"+91 8860037385",,IN,DL,0,"15-Jul-2019, 7:08 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c8194d4a3b407,Incoming,Call,Connected,"+91 8750970490",,IN,DL,29,"15-Jul-2019, 7:06 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c815c9d3cd392,Outgoing,Call,Missed,"+91 9305376711",,IN,UE,0,"15-Jul-2019, 7:05 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c80a9dafa9606,Outgoing,Call,Connected,"+91 9839317178",,IN,UE,12,"15-Jul-2019, 7:02 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c80207641c148,Outgoing,Call,Missed,"+91 8750970490",,IN,DL,0,"15-Jul-2019, 7:00 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c7fc2185a8399,Outgoing,Call,Connected,"+91 7702303968",,IN,AP,148,"15-Jul-2019, 6:56 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c7ed743f7c170,Outgoing,Call,Connected,"+91 9811770606",,IN,DL,26,"15-Jul-2019, 6:54 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c7b8e3e5eb215,Outgoing,Call,Missed,"+91 8101336375",,IN,WB,0,"15-Jul-2019, 6:41 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c7a0feca88328,Outgoing,Call,Missed,"+91 9992635636",,IN,HR,0,"15-Jul-2019, 6:34 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c78ec1c923371,Outgoing,Call,Connected,"+91 9582244753",,IN,DL,106,"15-Jul-2019, 6:27 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c78083e732498,Outgoing,Call,Missed,"+91 9870146665",,IN,DL,0,"15-Jul-2019, 6:25 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c77466c99a509,Outgoing,Call,Missed,"+91 9980380499",,IN,KA,0,"15-Jul-2019, 6:22 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c75a9d3d7a874,Outgoing,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,76,"15-Jul-2019, 6:14 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c75185e5ab244,Outgoing,Call,Connected,"+91 9871980184","Mitushi Tuteja Airbnb Guest",IN,DL,59,"15-Jul-2019, 6:12 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c71c8dfc80838,Incoming,Call,Connected,"+91 9654894221","Himani Gill MMT",IN,DL,122,"15-Jul-2019, 5:57 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c6f110f319888,Outgoing,Call,Connected,"+91 8081909086","Sharad Perch",IN,UE,84,"15-Jul-2019, 5:46 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c6e99e00ab970,Outgoing,Call,Connected,"+91 9821233419","Rajan Gadgil Corporate",IN,DL,31,"15-Jul-2019, 5:45 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c6e671d435919,Outgoing,Call,Missed,"+91 9721496788","Rohit Sharma Airindia",IN,UE,0,"15-Jul-2019, 5:44 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c6e358d14a892,Outgoing,Call,Missed,"+91 9599183914","Lalit Japan Jindal Finance",IN,DL,0,"15-Jul-2019, 5:44 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c6e25e597c477,Outgoing,Call,Missed,"+91 9821233419","Rajan Gadgil Corporate",IN,DL,0,"15-Jul-2019, 5:43 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c6e227906a120,Outgoing,Call,Missed,"+91 9821233419","Rajan Gadgil Corporate",IN,DL,0,"15-Jul-2019, 5:43 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c6d324ffbd313,Outgoing,Call,Connected,"+91 9811457236",,IN,DL,60,"15-Jul-2019, 5:38 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c6c841c8e4387,Incoming,Call,Connected,"+91 9810332785","S S Inquiry",IN,DL,130,"15-Jul-2019, 5:34 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c697933c0a725,Outgoing,Call,Connected,"+91 9810332785",,IN,DL,257,"15-Jul-2019, 5:19 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c66239bf52312,Incoming,Call,Connected,"+91 1244547012",,IN,DL,80,"15-Jul-2019, 5:08 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c5fc6cde5b791,Incoming,Call,Connected,"+91 9871392022","Sispal AC Wala",IN,DL,48,"15-Jul-2019, 4:41 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c5f5a77238255,Incoming,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,0,"15-Jul-2019, 4:40 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c5e648bb43398,Outgoing,Call,Connected,"+91 9205971236",,IN,DL,90,"15-Jul-2019, 4:35 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c5de49b74b720,Outgoing,Call,Connected,"+91 9599320557",,IN,DL,9,"15-Jul-2019, 4:34 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c5d66831db678,Outgoing,Call,Missed,"+91 9769718787",,IN,MU,0,"15-Jul-2019, 4:32 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c5d4191c44260,Outgoing,Call,Missed,"+91 9769718787",,IN,MU,0,"15-Jul-2019, 4:32 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c5d317a35f322,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,60,"15-Jul-2019, 4:30 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c5cda28a59970,Outgoing,Call,Connected,"+91 9871392022","Sispal AC Wala",IN,DL,20,"15-Jul-2019, 4:29 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c56ae2552f899,Outgoing,Call,Connected,"+91 7827352096","Khaki Jio",IN,DL,219,"15-Jul-2019, 4:00 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c507c6d89e757,Outgoing,Call,Connected,"+91 7827352096","Khaki Jio",IN,DL,35,"15-Jul-2019, 3:37 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c50412b0ac981,Incoming,Call,Connected,"+91 7827352096","Khaki Jio",IN,DL,13,"15-Jul-2019, 3:36 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c4f8c37aab855,Outgoing,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,10,"15-Jul-2019, 3:33 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c4f6482c96600,Incoming,Call,Connected,"+91 9963941812",,IN,AP,29,"15-Jul-2019, 3:32 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c4d7b9f352786,Outgoing,Call,Connected,"+91 7827352096","Khaki Jio",IN,DL,22,"15-Jul-2019, 3:24 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c4c19dfe94600,Incoming,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,9,"15-Jul-2019, 3:18 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c4bf712199446,Outgoing,Call,Connected,"+91 9958691304",,IN,DL,25,"15-Jul-2019, 3:17 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c4bb606eca966,Outgoing,Call,Connected,"+91 9711604892",,IN,DL,30,"15-Jul-2019, 3:16 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c4b741b2fa956,Outgoing,Call,Connected,"+91 9871392022","Sispal AC Wala",IN,DL,82,"15-Jul-2019, 3:14 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c4ab2b25e5763,Outgoing,Call,Missed,"+91 9833310747",,IN,MU,0,"15-Jul-2019, 3:12 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c4a5108d2c520,Outgoing,Call,Connected,"+91 9821233419",,IN,DL,51,"15-Jul-2019, 3:10 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c458660b42801,Incoming,Call,Connected,"+91 60356243000",,IN,,42,"15-Jul-2019, 2:38 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c3abfbfd3d574,Outgoing,Call,Missed,"+91 9871392022","Sispal AC Wala",IN,DL,0,"15-Jul-2019, 2:04 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c3a28710ba959,Outgoing,Call,Missed,"+91 9769718787",,IN,MU,0,"15-Jul-2019, 2:02 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c39f3abad9414,Outgoing,Call,Connected,"+91 9987006527",,IN,MU,16,"15-Jul-2019, 2:01 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c38f297aab815,Outgoing,Call,Missed,"+91 9769718787",,IN,MU,0,"15-Jul-2019, 1:56 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c3643984bc352,Incoming,Call,Connected,"+91 1244371959",,IN,DL,0,"15-Jul-2019, 1:45 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c362eadb26929,Incoming,Call,Connected,"+91 9902915977",,IN,KA,32,"15-Jul-2019, 1:44 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c359dee237625,Outgoing,Call,Missed,"+91 9902915977",,IN,KA,0,"15-Jul-2019, 1:42 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c3549e14eb527,Outgoing,Call,Connected,"+91 1143024305",,IN,DL,77,"15-Jul-2019, 1:40 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c34deb7ee4524,Outgoing,Call,Missed,"+91 1143024305",,IN,DL,0,"15-Jul-2019, 1:39 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c34a7ba8a0354,Outgoing,Call,Missed,"+91 7228972393",,IN,,0,"15-Jul-2019, 1:37 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c2e59b5a76264,Incoming,Call,Connected,"+91 9999310204",Mustkim,IN,DL,135,"15-Jul-2019, 1:07 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c2bfacaaf6447,Outgoing,Call,Connected,"+91 8896937304",,IN,UE,21,"15-Jul-2019, 1:01 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c2bbeb49e3679,Outgoing,Call,Connected,"+91 9326633196",,IN,MU,27,"15-Jul-2019, 1:00 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c2b7cbe707929,Outgoing,Call,Connected,"+91 9819801988",,IN,MU,461,"15-Jul-2019, 12:51 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c2995b4ea1488,Outgoing,Call,Connected,"+91 9987006527",,IN,MU,78,"15-Jul-2019, 12:49 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c28ed98905436,Outgoing,Call,Missed,"+91 9987006527",,IN,MU,0,"15-Jul-2019, 12:48 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c28aece91a610,Outgoing,Call,Missed,"+91 8826137487",,IN,DL,0,"15-Jul-2019, 12:47 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c248c0a716753,Incoming,Call,Connected,"+91 9999031912",,IN,DL,78,"15-Jul-2019, 12:28 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c241f642ed666,Outgoing,Call,Missed,"+91 9999031912",,IN,DL,0,"15-Jul-2019, 12:27 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c23c679d6a999,Outgoing,Call,Connected,"+91 9999310204",Mustkim,IN,DL,37,"15-Jul-2019, 12:25 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c231a51325540,Outgoing,Call,Missed,"+91 9871392022","Sispal AC Wala",IN,DL,0,"15-Jul-2019, 12:23 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c230ba127f838,Outgoing,Call,Missed,"+91 9871392022","Sispal AC Wala",IN,DL,0,"15-Jul-2019, 12:23 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c22d4f1439318,Outgoing,Call,Missed,"+91 9871392022","Sispal AC Wala",IN,DL,0,"15-Jul-2019, 12:22 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c22b56c01c676,Incoming,Call,Connected,"+91 9999310204",Mustkim,IN,DL,143,"15-Jul-2019, 12:19 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c221847dd6724,Outgoing,Call,Missed,"+91 9871392022","Sispal AC Wala",IN,DL,0,"15-Jul-2019, 12:18 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c21d9c3d0a114,Outgoing,Call,Missed,"+91 9871392022","Sispal AC Wala",IN,DL,0,"15-Jul-2019, 12:18 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c21d4377d4803,Outgoing,Call,Missed,"+91 9871392022","Sispal AC Wala",IN,DL,0,"15-Jul-2019, 12:17 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c217fecab1978,Outgoing,Call,Missed,"+91 9871392022","Sispal AC Wala",IN,DL,0,"15-Jul-2019, 12:16 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c2152bb349642,Outgoing,Call,Missed,"+91 9871392022","Sispal AC Wala",IN,DL,0,"15-Jul-2019, 12:15 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c21275fd0f121,Outgoing,Call,Connected,"+91 7703980422","Madhu Ma\'am Jio",IN,DL,80,"15-Jul-2019, 12:14 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c205fb8722846,Outgoing,Call,Connected,"+91 9871392022","Sispal AC Wala",IN,DL,150,"15-Jul-2019, 12:09 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c1facd548d547,Outgoing,Call,Connected,"+91 9871392022","Sispal AC Wala",IN,DL,14,"15-Jul-2019, 12:08 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c1f78e5399331,Outgoing,Call,Connected,"+91 9999310204",Mustkim,IN,DL,17,"15-Jul-2019, 12:07 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c1f031a872554,Outgoing,Call,Missed,"+91 9871392022","Sispal AC Wala",IN,DL,0,"15-Jul-2019, 12:05 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c1ebff214a782,Outgoing,Call,Missed,"+91 9871392022","Sispal AC Wala",IN,DL,0,"15-Jul-2019, 12:04 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c1dfab33c6137,Outgoing,Call,Missed,"+91 9902915977",,IN,KA,0,"15-Jul-2019, 12:01 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c1c83a8324213,Outgoing,Call,Missed,"+91 9326633196",,IN,MU,0,"15-Jul-2019, 11:55 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c1b293dfdc843,Incoming,Call,Connected,"+91 9336955714",,IN,UE,16,"15-Jul-2019, 11:49 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c1b026afb0627,Outgoing,Call,Connected,"+91 9336955714",,IN,UE,22,"15-Jul-2019, 11:48 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c192d3f29c576,Outgoing,Call,Missed,"+91 7289844570",,IN,DL,0,"15-Jul-2019, 11:41 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c17f892e8c730,Incoming,Call,Missed,"+91 1143024305",,IN,DL,0,"15-Jul-2019, 11:36 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c150d60b00935,Incoming,Call,Connected,"+91 9999310204",Mustkim,IN,DL,33,"15-Jul-2019, 11:23 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c136ef2a3b245,Outgoing,Call,Missed,"+91 9999310204",Mustkim,IN,DL,0,"15-Jul-2019, 11:15 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c12db8b149297,Outgoing,Call,Connected,"+91 9871392022","Sispal AC Wala",IN,DL,105,"15-Jul-2019, 11:12 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c1252b90c6408,Outgoing,Call,Missed,"+91 9999310204",Mustkim,IN,DL,0,"15-Jul-2019, 11:11 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c1207e09bc758,Outgoing,Call,Connected,"+91 9899805197","Madhu Mam",IN,DL,158,"15-Jul-2019, 11:08 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c114f8b595149,Outgoing,Call,Missed,"+91 7703980422","Madhu Ma\'am Jio",IN,DL,0,"15-Jul-2019, 11:07 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c109281bfc411,Outgoing,Call,Connected,"+91 9448666666",,IN,KA,56,"15-Jul-2019, 11:03 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c103aa9f01916,Outgoing,Call,Connected,"+91 9810036968",,IN,DL,29,"15-Jul-2019, 11:02 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c0fe605477474,Outgoing,Call,Missed,"+91 9448666666",,IN,KA,0,"15-Jul-2019, 11:02 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c0f9e8f0aa271,Outgoing,Call,Connected,"+91 9212400240","Indiyaah Inn Nitin Inquiry",IN,DL,220,"15-Jul-2019, 10:56 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c0cbd7ddda654,Outgoing,Call,Missed,"+91 9810036968",,IN,DL,0,"15-Jul-2019, 10:48 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c0b5a4a6e4759,Outgoing,Call,Connected,"+91 9815190908",,IN,PB,37,"15-Jul-2019, 10:41 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c0ab1dab64992,Outgoing,Call,Connected,"+91 9888522872",,IN,PB,30,"15-Jul-2019, 10:39 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c0a5f8058e813,Outgoing,Call,Missed,"+91 9992635636",,IN,HR,0,"15-Jul-2019, 10:38 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2c0a098f730142,Outgoing,Call,Connected,"+91 9506863486",,IN,UE,32,"15-Jul-2019, 10:36 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2c05c9a289f154,Incoming,Call,Connected,"+91 9599788176","Saurav Kumar Cp 2 Inquiry",IN,DL,99,"15-Jul-2019, 10:17 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2abcffd22d8906,Outgoing,Call,Missed,"+91 8920662658",,IN,DL,0,"14-Jul-2019, 10:56 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2abce8c3b72560,Outgoing,Call,Missed,"+91 8920662658",,IN,DL,0,"14-Jul-2019, 10:55 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2abcba6bb9c313,Outgoing,Call,Missed,"+91 8920662658",,IN,DL,0,"14-Jul-2019, 10:54 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2abcbabd2bd283,Outgoing,Call,Connected,"+91 1244370742",,IN,DL,32,"14-Jul-2019, 10:53 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2abcba4069b426,Outgoing,Call,Missed,"+91 8287959412","Aamod Sohna Road Manager",IN,DL,0,"14-Jul-2019, 10:52 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2ab9a35dc12771,Incoming,Call,Missed,"+91 8920662658",,IN,DL,0,"14-Jul-2019, 10:41 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2ab54091215490,Outgoing,Call,Connected,"+91 8287959412","Aamod Sohna Road Manager",IN,DL,52,"14-Jul-2019, 10:21 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2ab4e54ee64628,Incoming,Call,Missed,"+91 9711220029",,IN,DL,0,"14-Jul-2019, 10:19 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2ab4e5cee01762,Incoming,Call,Missed,"+91 9826120437","Tarun Pillai Guest",IN,MP,0,"14-Jul-2019, 10:05 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2ab4e6d1c63695,Incoming,Call,Missed,"+91 8287959412","Aamod Sohna Road Manager",IN,DL,0,"14-Jul-2019, 9:57 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2ab4e4cb173540,Incoming,Call,Missed,"+91 8920662658",,IN,DL,0,"14-Jul-2019, 9:43 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2ab4e5cfa1b860,Incoming,Call,Missed,"+91 8920662658",,IN,DL,0,"14-Jul-2019, 9:42 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2ab4e336f1c623,Incoming,Call,Missed,"+91 8889051513",,IN,MP,0,"14-Jul-2019, 8:49 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,"AL   [Noted ext 12], [Date 15-Jul-2019, 7:18 PM ]",0,0,0,0
+5d2ab4e4c350d605,Incoming,Call,Missed,"+91 2262208313",,IN,MU,0,"14-Jul-2019, 5:10 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2a0581bd275358,Incoming,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,101,"13-Jul-2019, 9:50 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2a01a458081473,Outgoing,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,43,"13-Jul-2019, 9:35 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2a01324a7c5912,Outgoing,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,99,"13-Jul-2019, 9:32 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d29ff2f752e1417,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,171,"13-Jul-2019, 9:22 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d29f2a7d6bd9724,Incoming,Call,Missed,"+91 7905591442",,IN,UE,0,"13-Jul-2019, 8:27 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d29f2a7976e9633,Incoming,Call,Missed,"+91 7905591442",,IN,UE,0,"13-Jul-2019, 8:27 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d29f2a86d455666,Incoming,Call,Missed,"+91 9811431542",,IN,DL,0,"13-Jul-2019, 6:18 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d29f2a90d86c728,Incoming,Call,Missed,"+91 9826339547",,IN,MP,0,"13-Jul-2019, 5:10 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d29f1d8062d9690,Incoming,Call,Missed,"+91 9599320557",,IN,DL,0,"13-Jul-2019, 4:44 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d29bc1d6731b618,Incoming,Call,Missed,"+91 9599320557",,IN,DL,0,"13-Jul-2019, 4:36 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d29bc1915c66854,Incoming,Call,Missed,"+91 9811431542",,IN,DL,0,"13-Jul-2019, 4:34 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d29bc188a866247,Incoming,Call,Missed,"+91 1244844376",,IN,DL,0,"13-Jul-2019, 3:35 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d29bc1a6153f748,Incoming,Call,Missed,"+91 8077785951","Rahul Choudhary Room On Call",IN,KA,0,"13-Jul-2019, 2:34 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d29bc1689a87348,Incoming,Call,Connected,"+91 9910152258",,IN,DL,42,"13-Jul-2019, 2:14 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d29bc1523a37862,Incoming,Call,Missed,"+91 9910152258",,IN,DL,0,"13-Jul-2019, 2:13 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d29bc177d916459,Incoming,Call,Missed,"+91 9625515240",,IN,HP,0,"13-Jul-2019, 1:52 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d298e4079c06454,Outgoing,Call,Missed,"+91 9702052025",,IN,MU,0,"13-Jul-2019, 1:22 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d298e3043a16825,Incoming,Call,Connected,"+91 2262208313",,IN,MU,366,"13-Jul-2019, 1:15 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d298e17a192f428,Incoming,Call,Missed,"+91 9958691304",,IN,DL,0,"13-Jul-2019, 12:52 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d298e0a243b0278,Incoming,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,93,"13-Jul-2019, 12:15 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d297402f1f0d150,Incoming,Call,Connected,"+91 1412337428",,IN,RJ,28,"13-Jul-2019, 11:31 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d296eefc5ee3880,Incoming,Call,Missed,"+91 9818806315",,IN,DL,0,"13-Jul-2019, 11:10 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,"NR   [Noted ext 12], [Date 15-Jul-2019, 7:11 PM ]",0,0,0,0
+5d2961c2c3dc7939,Incoming,Call,Connected,"+91 2250796542",,IN,MU,7,"13-Jul-2019, 10:14 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28b631421c3604,Incoming,Call,Connected,"+91 7558364111",,IN,,138,"12-Jul-2019, 10:00 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28b2f25d81e852,Incoming,Call,Missed,"+91 7558364111",,IN,,0,"12-Jul-2019, 9:48 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d28adccd83d5843,Incoming,Call,Connected,"+91 4461198313",,IN,TN,1,"12-Jul-2019, 9:26 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28aa6f14cbe645,Outgoing,Call,Missed,"+91 7558364111",,IN,,0,"12-Jul-2019, 9:12 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d28a94fc8e04630,Incoming,Call,Connected,"+91 7827352096","Khaki Jio",IN,DL,42,"12-Jul-2019, 9:06 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28a547c9af6489,Outgoing,Call,Connected,"+91 7827352096","Khaki Jio",IN,DL,26,"12-Jul-2019, 8:49 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28a4f764e41389,Incoming,Call,Connected,"+91 7558364111",,IN,,96,"12-Jul-2019, 8:47 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28a4f6e6614615,Incoming,Call,Missed,"+91 7558364111",,IN,,0,"12-Jul-2019, 8:44 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d28a37f6dc8a242,Incoming,Call,Missed,"+91 1776650205",,IN,HP,0,"12-Jul-2019, 8:41 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2895872a2f8224,Outgoing,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,104,"12-Jul-2019, 7:40 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2893e80a2bf605,Incoming,Call,Connected,"+91 9818313810",,IN,DL,87,"12-Jul-2019, 7:34 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2892f9ca1d2720,Outgoing,Call,Connected,"+91 8882129865","Upadhyay Finance Manager",IN,DL,27,"12-Jul-2019, 7:31 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28926463ccd248,Outgoing,Call,Missed,"+91 8882129865","Upadhyay Finance Manager",IN,DL,0,"12-Jul-2019, 7:28 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2891f86952b809,Outgoing,Call,Missed,"+91 8882129865","Upadhyay Finance Manager",IN,DL,0,"12-Jul-2019, 7:27 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d288e465642b947,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,3,"12-Jul-2019, 7:11 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d288dc13efa7268,Incoming,Call,Connected,"+91 8742000090",,IN,DL,99,"12-Jul-2019, 7:08 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d288d5508551812,Outgoing,Call,Missed,"+91 9811524466",,IN,DL,0,"12-Jul-2019, 7:07 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d288cd44f4d9688,Outgoing,Call,Missed,"+91 9811524466",,IN,DL,0,"12-Jul-2019, 7:05 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d288caf59876305,Outgoing,Call,Missed,"+91 9888185156",,IN,PB,0,"12-Jul-2019, 7:05 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d288c8273b4e303,Outgoing,Call,Connected,"+91 8768705630",,IN,WB,25,"12-Jul-2019, 7:03 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28868d2837b493,Incoming,Call,Connected,"+91 9199231515",,IN,BR,30,"12-Jul-2019, 6:38 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28864e1b8b0822,Incoming,Call,Connected,"+91 9199231515",,IN,BR,26,"12-Jul-2019, 6:37 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28862be43b1279,Incoming,Call,Missed,"+91 9199231515",,IN,BR,0,"12-Jul-2019, 6:37 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2880ad3cbbe512,Incoming,Call,Connected,"+91 9990616939",,IN,DL,341,"12-Jul-2019, 6:08 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28789aa933c694,Incoming,Call,Connected,"+91 8209198013",,IN,KA,143,"12-Jul-2019, 5:37 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d287770aa86b716,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,11,"12-Jul-2019, 5:34 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2875e547f2e116,Outgoing,Call,Missed,"+91 9958181141",,IN,DL,0,"12-Jul-2019, 5:28 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d287512556c8606,Outgoing,Call,Connected,"+91 9599080363","Himanshu Susden India Finance",IN,DL,184,"12-Jul-2019, 5:21 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28735282e60968,Incoming,Call,Connected,"+91 9958181141",,IN,DL,331,"12-Jul-2019, 5:11 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2870c99bb35228,Incoming,Call,Connected,"+91 85239104100",,IN,,293,"12-Jul-2019, 5:01 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d286e38a595c579,Outgoing,Call,Missed,"+91 9914168521",,IN,PB,0,"12-Jul-2019, 4:55 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d286e29e2334705,Outgoing,Call,Connected,"+91 9958181141",,IN,DL,19,"12-Jul-2019, 4:54 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d286d0834398636,Incoming,Call,Missed,"+91 9958181141",,IN,DL,0,"12-Jul-2019, 4:50 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2867cb3ec59948,Incoming,Call,Missed,"+91 8800414040",,IN,DL,0,"12-Jul-2019, 4:28 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2867cbbfd2a509,Outgoing,Call,Missed,"+91 1246831723",,IN,DL,0,"12-Jul-2019, 4:27 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d28677daee2e478,Outgoing,Call,Connected,"+91 9914168521",,IN,PB,104,"12-Jul-2019, 4:24 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2866f861c55900,Incoming,Call,Connected,"+91 9914168521",,IN,PB,32,"12-Jul-2019, 4:23 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2864d426355826,Outgoing,Call,Connected,"+91 9914168521",,IN,PB,20,"12-Jul-2019, 4:14 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d286422b48c1938,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,29,"12-Jul-2019, 4:11 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2863f1489ad648,Incoming,Call,Connected,"+91 9900786677",,IN,KA,26,"12-Jul-2019, 4:11 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28632946b1f545,Outgoing,Call,Missed,"+91 9718584420","Geeta Divine Company",IN,DL,0,"12-Jul-2019, 4:07 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2862eb4e474922,Outgoing,Call,Missed,"+91 9900786677",,IN,KA,0,"12-Jul-2019, 4:06 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d285f6bed6ed420,Outgoing,Call,Connected,"+91 7210787593","Abhishek Perch",IN,DL,296,"12-Jul-2019, 3:47 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28596ad3084166,Outgoing,Call,Connected,"+91 6394437990",,IN,UE,30,"12-Jul-2019, 3:25 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28592602a53850,Outgoing,Call,Missed,"+91 9739462166",,IN,KA,0,"12-Jul-2019, 3:25 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2858f2b6929230,Outgoing,Call,Connected,"+91 9326633196",,IN,MU,27,"12-Jul-2019, 3:23 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28587265965632,Outgoing,Call,Connected,"+91 7355106072",,IN,PB,32,"12-Jul-2019, 3:21 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2857ed30a30724,Outgoing,Call,Missed,"+91 9199231515",,IN,BR,0,"12-Jul-2019, 3:20 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2857b54ee18936,Outgoing,Call,Connected,"+91 8789168346",,IN,AP,133,"12-Jul-2019, 3:16 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2856d36e0a9129,Outgoing,Call,Connected,"+91 9647233872",,IN,WB,29,"12-Jul-2019, 3:14 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28567258424544,Outgoing,Call,Missed,"+91 9199231515",,IN,BR,0,"12-Jul-2019, 3:13 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d284ef607a00502,Incoming,Call,Connected,"+91 7428134355",,IN,DL,124,"12-Jul-2019, 2:39 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d284dd4a61e5157,Incoming,Call,Connected,"+91 7428134355",,IN,DL,246,"12-Jul-2019, 2:33 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28434adb552974,Incoming,Call,Connected,"+91 9647233872",,IN,WB,153,"12-Jul-2019, 1:49 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d283fcf3d379727,Incoming,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,198,"12-Jul-2019, 1:34 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d283d327a99a893,Incoming,Call,Connected,"+91 9212400240","Indiyaah Inn Nitin Inquiry",IN,DL,42,"12-Jul-2019, 1:25 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d283cccd57d1551,Outgoing,Call,Missed,"+91 8789168346",,IN,AP,0,"12-Jul-2019, 1:24 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d283cab75898904,Outgoing,Call,Missed,"+91 7428134355",,IN,DL,0,"12-Jul-2019, 1:23 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2838ad7bf1f181,Incoming,Call,Connected,"+91 6565216385",,IN,BR,103,"12-Jul-2019, 1:05 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28360d2fd59560,Incoming,Call,Connected,"+91 2266119393",,IN,MU,94,"12-Jul-2019, 12:54 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28342b2e550500,Outgoing,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,276,"12-Jul-2019, 12:43 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2832828e153689,Outgoing,Call,Connected,"+91 7827352096","Khaki Jio",IN,DL,72,"12-Jul-2019, 12:39 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d282e94f10f4363,Incoming,Call,Connected,"+91 7703980422","Madhu Ma\'am Jio",IN,DL,85,"12-Jul-2019, 12:22 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2829ce2e4cb365,Outgoing,Call,Connected,"+91 9821233419",,IN,DL,95,"12-Jul-2019, 12:01 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d28241dc8056538,Outgoing,Call,Missed,"+91 9821233419",,IN,DL,0,"12-Jul-2019, 11:38 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d28240be0024741,Outgoing,Call,Missed,"+91 9821233419",,IN,DL,0,"12-Jul-2019, 11:38 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2823c8afded914,Outgoing,Call,Missed,"+91 9821233419",,IN,DL,0,"12-Jul-2019, 11:37 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2821166ceef323,Outgoing,Call,Connected,"+91 9815190908",,IN,PB,82,"12-Jul-2019, 11:24 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d281ff84d86a369,Incoming,Call,Connected,"+91 2262208313",,IN,MU,31,"12-Jul-2019, 11:21 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d281fc554c6f534,Incoming,Call,Missed,"+91 4461198313",,IN,TN,0,"12-Jul-2019, 11:20 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d281f8b892b8491,Incoming,Call,Connected,"+91 9555763412",,IN,DL,8,"12-Jul-2019, 11:19 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d281db7a0f69208,Outgoing,Call,Connected,"+91 9740997201","Balaji Guest",IN,KA,25,"12-Jul-2019, 11:11 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d281d849440b653,Outgoing,Call,Connected,"+91 7999393564",,IN,MP,41,"12-Jul-2019, 11:10 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d281d3b37ffd170,Outgoing,Call,Connected,"+91 7827352096","Khaki Jio",IN,DL,25,"12-Jul-2019, 11:09 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d281c2ee39a5330,Incoming,Call,Connected,"+91 7065556641","Pushkar Hindustan Cargo",IN,DL,173,"12-Jul-2019, 11:02 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d281a8a39df0571,Incoming,Call,Connected,"+91 1244370742",,IN,DL,29,"12-Jul-2019, 10:57 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2817d206c80794,Incoming,Call,Connected,"+91 9810725530","Ashish Jain Digi India",IN,DL,24,"12-Jul-2019, 10:46 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2814917be0c563,Outgoing,Call,Connected,"+91 7999393564",,IN,MP,75,"12-Jul-2019, 10:31 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d281396bcf5e111,Outgoing,Call,Connected,"+91 9821233419",,IN,DL,198,"12-Jul-2019, 10:25 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2812b6d15c5417,Incoming,Call,Connected,"+91 7703980422","Madhu Ma\'am Jio",IN,DL,10,"12-Jul-2019, 10:24 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d281212bd935727,Incoming,Call,Missed,"+91 6620164200",,IN,,0,"12-Jul-2019, 9:35 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d28121093d33731,Incoming,Call,Missed,"+91 85239104100",,IN,,0,"12-Jul-2019, 9:33 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d281210b2a46296,Incoming,Call,Missed,"+91 85239104100",,IN,,0,"12-Jul-2019, 8:46 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d28121031d85531,Incoming,Call,Missed,"+91 9910052767",,IN,DL,0,"12-Jul-2019, 2:56 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2812111e366356,Incoming,Call,Missed,"+91 8789168346",,IN,AP,0,"11-Jul-2019, 10:18 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d281210100b6490,Incoming,Call,Missed,"+91 8789168346",,IN,AP,0,"11-Jul-2019, 10:17 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d27623b49ad5643,Outgoing,Call,Connected,"+91 8826717095","Utsav Perch Arbor Golf Course",IN,DL,31,"11-Jul-2019, 9:51 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d27623ab5ebb703,Outgoing,Call,Connected,"+91 9820071463","Sarabjit Singh. sarab Inquiry",IN,MU,320,"11-Jul-2019, 9:45 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d27623b28ed4497,Outgoing,Call,Connected,"+91 8826717095","Utsav Perch Arbor Golf Course",IN,DL,31,"11-Jul-2019, 9:44 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d275f7419982464,Incoming,Call,Missed,"+91 9820071463","Sarabjit Singh. sarab Inquiry",IN,MU,0,"11-Jul-2019, 9:39 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d275004dfb7f775,Incoming,Call,Missed,"+91 7428134355",,IN,DL,0,"11-Jul-2019, 8:33 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d273f76dda28681,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,34,"11-Jul-2019, 7:22 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d273df3c0983928,Incoming,Call,Connected,"+91 31207140500",,IN,UP,153,"11-Jul-2019, 7:14 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d273cd1abe78289,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,18,"11-Jul-2019, 7:11 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d273b0f8d9b8357,Outgoing,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,113,"11-Jul-2019, 7:02 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d273a5e83990348,Outgoing,Call,Connected,"+91 9945132984",,IN,KA,41,"11-Jul-2019, 7:01 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2739fd42e94134,Outgoing,Call,Connected,"+91 9828616668",,IN,RJ,24,"11-Jul-2019, 6:59 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2739bcee815749,Outgoing,Call,Connected,"+91 9828616668",,IN,RJ,108,"11-Jul-2019, 6:57 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d273911a7edc253,Outgoing,Call,Connected,"+91 9971510366",,IN,DL,27,"11-Jul-2019, 6:55 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2738d81ce1a725,Outgoing,Call,Missed,"+91 9971510366",,IN,DL,0,"11-Jul-2019, 6:55 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2734820730b665,Outgoing,Call,Missed,"+91 8882129865","Upadhyay Finance Manager",IN,DL,0,"11-Jul-2019, 6:36 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d27345b5efc7663,Outgoing,Call,Missed,"+91 8882129865","Upadhyay Finance Manager",IN,DL,0,"11-Jul-2019, 6:35 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2732664ca7c734,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,17,"11-Jul-2019, 6:27 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d272b6343a58926,Outgoing,Call,Connected,"+91 9599446017",,IN,DL,342,"11-Jul-2019, 5:52 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2726e6339f7485,Incoming,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,958,"11-Jul-2019, 5:22 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2720e90c70b523,Incoming,Call,Connected,"+91 9717055927",,IN,DL,19,"11-Jul-2019, 5:12 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d271e1b6dc9b687,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,33,"11-Jul-2019, 5:00 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d271dbd4e13e857,Incoming,Call,Connected,"+91 9663378537",,IN,KA,60,"11-Jul-2019, 4:58 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d271b8c6ee10374,Outgoing,Call,Connected,"+91 2266119393",,IN,MU,392,"11-Jul-2019, 4:43 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d27132c490a5767,Outgoing,Call,Missed,"+91 9910908224",,IN,DL,0,"11-Jul-2019, 4:14 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2710d5bfcf1449,Incoming,Call,Connected,"+91 7703980422","Madhu Ma\'am Jio",IN,DL,0,"11-Jul-2019, 4:04 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d270edaadd8f632,Incoming,Call,Missed,"+91 9910919765","Medan8a Brk",IN,DL,0,"11-Jul-2019, 3:56 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d270afc107ed734,Outgoing,Call,Connected,"+91 7703980422","Madhu Ma\'am Jio",IN,DL,159,"11-Jul-2019, 3:36 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2709776a6cd711,Outgoing,Call,Missed,"+91 9650560954","Mr Ehabh Iraqi",IN,DL,0,"11-Jul-2019, 3:33 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2705d059882599,Incoming,Call,Connected,"+91 9740997201","Balaji Guest",IN,KA,25,"11-Jul-2019, 3:17 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2705a0deda3497,Incoming,Call,Connected,"+91 9650560954","Mr Ehabh Iraqi",IN,DL,21,"11-Jul-2019, 3:16 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2705647bc86509,Incoming,Call,Missed,"+91 9650560954","Mr Ehabh Iraqi",IN,DL,0,"11-Jul-2019, 3:15 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d27054d960c8406,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,7,"11-Jul-2019, 3:15 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d27020f3b715628,Incoming,Call,Connected,"+91 1242572686","Perch Grove Golf Course Road",IN,DL,3,"11-Jul-2019, 3:01 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26fd8c62029449,Incoming,Call,Connected,"+91 2067135800",,IN,MP,0,"11-Jul-2019, 2:42 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26fd5c434e6731,Incoming,Call,Connected,"+91 7595979565",,IN,,66,"11-Jul-2019, 2:40 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26ed53d11d7458,Incoming,Call,Connected,"+91 8127392141",,IN,UE,7,"11-Jul-2019, 1:32 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26ed1bd1a69138,Outgoing,Call,Connected,"+91 8127392141",,IN,UE,42,"11-Jul-2019, 1:31 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26ecd10c28b653,Outgoing,Call,Missed,"+91 8174935748",,IN,KA,0,"11-Jul-2019, 1:30 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d26ec9fa42a9503,Incoming,Call,Connected,"+91 8178998544",,IN,DL,19,"11-Jul-2019, 1:29 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26e9db10604170,Outgoing,Call,Missed,"+91 6394437990",,IN,UE,0,"11-Jul-2019, 1:17 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d26e980e7e16438,Outgoing,Call,Missed,"+91 8174935748",,IN,KA,0,"11-Jul-2019, 1:16 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d26e906d1a0d278,Outgoing,Call,Missed,"+91 8174935748",,IN,KA,0,"11-Jul-2019, 1:14 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d26e19dd6ea4373,Outgoing,Call,Connected,"+91 7310283981",,IN,UW,10,"11-Jul-2019, 12:42 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26e16f2f3e8443,Outgoing,Call,Missed,"+91 6394437990",,IN,UE,0,"11-Jul-2019, 12:41 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d26e135befe8912,Outgoing,Call,Missed,"+91 9820071463","Sarabjit Singh. sarab Inquiry",IN,MU,0,"11-Jul-2019, 12:41 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d26e13170613550,Incoming,Call,Connected,"+91 7210787593","Abhishek Perch",IN,DL,37,"11-Jul-2019, 12:40 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26e0f4a5ad1452,Incoming,Call,Connected,"+91 7210787593","Abhishek Perch",IN,DL,87,"11-Jul-2019, 12:38 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26df01e93bb250,Incoming,Call,Connected,"+91 9212400240","Indiyaah Inn Nitin Inquiry",IN,DL,451,"11-Jul-2019, 12:24 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26dd1836530387,Incoming,Call,Connected,"+91 9212400240","Indiyaah Inn Nitin Inquiry",IN,DL,566,"11-Jul-2019, 12:14 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26da4a47d16728,Outgoing,Call,Missed,"+91 9004555525",,IN,MU,0,"11-Jul-2019, 12:12 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d26d56ae77b7784,Outgoing,Call,Connected,"+91 1244140128","Perch Arbor Golf Course Road",IN,DL,19,"11-Jul-2019, 11:50 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26d5688c92f530,Outgoing,Call,Missed,"+91 9811824518",,IN,DL,0,"11-Jul-2019, 11:48 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d26d4ac8c395210,Outgoing,Call,Connected,"+91 9004555525",,IN,MU,174,"11-Jul-2019, 11:44 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26cedf05d74296,Outgoing,Call,Missed,"+91 9004555525",,IN,MU,0,"11-Jul-2019, 11:23 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d26cdbcb254b132,Incoming,Call,Connected,"+91 7827500540",,IN,DL,70,"11-Jul-2019, 11:17 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26cd3685026169,Incoming,Call,Connected,"+91 7703980422","Madhu Ma\'am Jio",IN,DL,267,"11-Jul-2019, 11:11 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26cb24e3387379,Outgoing,Call,Connected,"+91 7210787593","Abhishek Perch",IN,DL,50,"11-Jul-2019, 11:06 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26ca68e212d757,Incoming,Call,Connected,"+91 9212400240","Indiyaah Inn Nitin Inquiry",IN,DL,94,"11-Jul-2019, 11:02 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26c9750a9ce945,Outgoing,Call,Connected,"+91 7210787593","Abhishek Perch",IN,DL,47,"11-Jul-2019, 10:59 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26c89640735692,Incoming,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,90,"11-Jul-2019, 10:54 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26c547e475c798,Outgoing,Call,Connected,"+91 9873163013",,IN,DL,27,"11-Jul-2019, 10:41 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26c3466527c390,Incoming,Call,Connected,"+91 9873163013",,IN,DL,73,"11-Jul-2019, 10:32 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26bd7c00b90512,Incoming,Call,Missed,"+91 9811824518",,IN,DL,0,"11-Jul-2019, 10:08 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d261cd838a97693,Incoming,Call,Connected,"+91 9820158783","Roopak Chatutvedi Bacardi",IN,MU,1482,"10-Jul-2019, 10:18 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d261556277d6990,Outgoing,Call,Missed,"+91 9820158783","Roopak Chatutvedi Bacardi",IN,MU,0,"10-Jul-2019, 10:10 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d26146d88590657,Outgoing,Call,Missed,"+91 9820158783",,IN,MU,0,"10-Jul-2019, 10:07 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d260e20ae76c359,Outgoing,Call,Connected,"+91 7210787593","Abhishek Perch",IN,DL,34,"10-Jul-2019, 9:40 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d260e20366a9556,Outgoing,Call,Missed,"+91 8007494885",,IN,MH,0,"10-Jul-2019, 9:39 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d260ca517a45803,Incoming,Call,Missed,"+91 8007494885",,IN,MH,0,"10-Jul-2019, 9:33 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d260928053d0340,Outgoing,Call,Connected,"+91 7210787593","Abhishek Perch",IN,DL,99,"10-Jul-2019, 9:17 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26091c95335834,Outgoing,Call,Connected,"+91 9212400240","Indiyaah Inn Nitin Inquiry",IN,DL,250,"10-Jul-2019, 9:13 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d26091d35390882,Outgoing,Call,Connected,"+91 7210787593","Abhishek Perch",IN,DL,47,"10-Jul-2019, 9:12 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d260139f3ba4755,Incoming,Call,Connected,"+91 9212400240","Indiyaah Inn Nitin Inquiry",IN,DL,43,"10-Jul-2019, 8:44 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2600d943b7e362,Outgoing,Call,Connected,"+91 7210787593","Abhishek Perch",IN,DL,151,"10-Jul-2019, 8:41 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d260013eca11503,Outgoing,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,22,"10-Jul-2019, 8:40 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25fc3b282bd241,Incoming,Call,Missed,"+91 9036341411",,IN,KA,0,"10-Jul-2019, 8:23 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25fb7da6c25212,Incoming,Call,Missed,"+91 9818313810",,IN,DL,0,"10-Jul-2019, 8:20 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25fa75e3c9b370,Incoming,Call,Connected,"+91 9212400240","Indiyaah Inn Nitin Inquiry",IN,DL,111,"10-Jul-2019, 8:14 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25f605b7a8e764,Outgoing,Call,Connected,"+91 9818591829",,IN,DL,210,"10-Jul-2019, 7:54 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25f520afeca967,Outgoing,Call,Connected,"+91 1244140128","Perch Arbor Golf Course Road",IN,DL,258,"10-Jul-2019, 7:49 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25f41578d14386,Outgoing,Call,Missed,"+91 7210787593","Abhishek Perch",IN,DL,0,"10-Jul-2019, 7:49 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25f3ff04667953,Outgoing,Call,Missed,"+91 7210787593","Abhishek Perch",IN,DL,0,"10-Jul-2019, 7:48 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25f3ae7284f483,Incoming,Call,Connected,"+91 7019107783","Ram Sub Inquiry",IN,KA,42,"10-Jul-2019, 7:47 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25e809bdd4e295,Incoming,Call,Connected,"+91 6397314609",,IN,UW,14,"10-Jul-2019, 6:58 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25e741d3d6c691,Outgoing,Call,Missed,"+91 9100304407",,IN,AP,0,"10-Jul-2019, 6:55 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25e62d2f4da821,Outgoing,Call,Connected,"+91 1244370742",,IN,DL,55,"10-Jul-2019, 6:49 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25e099177a5926,Incoming,Call,Connected,"+91 1244370742",,IN,DL,260,"10-Jul-2019, 6:22 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25dd07e3bd1126,Incoming,Call,Connected,"+91 9822437676",,IN,MH,126,"10-Jul-2019, 6:09 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25d9d710acd230,Outgoing,Call,Missed,"+91 7019107783",,IN,KA,0,"10-Jul-2019, 5:58 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25d96daaf96273,Outgoing,Call,Missed,"+91 7019107783",,IN,KA,0,"10-Jul-2019, 5:55 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25d875d0969263,Incoming,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,8,"10-Jul-2019, 5:51 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25d74047c11549,Incoming,Call,Connected,"+91 9708132300",,IN,BR,159,"10-Jul-2019, 5:44 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25d57939591851,Outgoing,Call,Connected,"+91 9818982624","Soumya Sharma Corporate",IN,DL,68,"10-Jul-2019, 5:37 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25d0d2a4f2f173,Incoming,Call,Connected,"+91 2067135800",,IN,MP,0,"10-Jul-2019, 5:19 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25ccdf8b29e649,Outgoing,Call,Missed,"+91 9822437676",,IN,MH,0,"10-Jul-2019, 5:02 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25caa7b4be5945,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,64,"10-Jul-2019, 4:51 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25c86117c2d340,Outgoing,Call,Missed,"+91 9100304407",,IN,AP,0,"10-Jul-2019, 4:43 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25c7ba8b251990,Outgoing,Call,Missed,"+91 9818982624","Soumya Sharma Corporate",IN,DL,0,"10-Jul-2019, 4:39 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25c72eeeacf978,Outgoing,Call,Missed,"+91 7210787593","Abhishek Perch",IN,DL,0,"10-Jul-2019, 4:38 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25c70fe9f07884,Outgoing,Call,Connected,"+91 8447443866",,IN,DL,43,"10-Jul-2019, 4:36 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25c22790063488,Outgoing,Call,Missed,"+91 9822437676",,IN,MH,0,"10-Jul-2019, 4:16 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25be02202a8174,Outgoing,Call,Missed,"+91 9822437676",,IN,MH,0,"10-Jul-2019, 3:59 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25b77eeefb5994,Incoming,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,17,"10-Jul-2019, 3:30 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25b5a270acc592,Incoming,Call,Connected,"+91 7703980422","Madhu Ma\'am Jio",IN,DL,107,"10-Jul-2019, 3:21 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25b26362fb4420,Incoming,Call,Connected,"+91 2067135800",,IN,MP,0,"10-Jul-2019, 2:56 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25b26420eba719,Incoming,Call,Connected,"+91 2067135800",,IN,MP,0,"10-Jul-2019, 2:56 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25aa23dd8ba997,Incoming,Call,Connected,"+91 9343562737",,IN,KA,27,"10-Jul-2019, 2:33 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25a65d579bf344,Incoming,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,111,"10-Jul-2019, 2:16 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25a5a31e832529,Outgoing,Call,Missed,"+91 9899479622","Shailender Arbor Manager",IN,DL,0,"10-Jul-2019, 2:14 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25a4d41cf86269,Incoming,Call,Connected,"+91 9818982624","Soumya Sharma Corporate",IN,DL,70,"10-Jul-2019, 2:10 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25a4d28eded217,Incoming,Call,Connected,"+91 9818982624","Soumya Sharma Corporate",IN,DL,31,"10-Jul-2019, 2:07 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25a4d1f2574159,Incoming,Call,Connected,"+91 9515925687",,IN,AP,117,"10-Jul-2019, 2:00 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25a035149a6452,Outgoing,Call,Missed,"+91 9515925687",,IN,AP,0,"10-Jul-2019, 1:51 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d259ff483374933,Outgoing,Call,Missed,"+91 7016602924",,IN,GJ,0,"10-Jul-2019, 1:50 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d259d6acc42e383,Outgoing,Call,Missed,"+91 9343562737",,IN,KA,0,"10-Jul-2019, 1:39 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d259cdad37d2136,Incoming,Call,Connected,"+91 9650560954","Mr Ehabh Iraqi",IN,DL,274,"10-Jul-2019, 1:33 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d259ae56f5f7752,Outgoing,Call,Connected,"+91 8175047926",,IN,KA,53,"10-Jul-2019, 1:27 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2598e3c4760721,Outgoing,Call,Missed,"+91 9343562737",,IN,KA,0,"10-Jul-2019, 1:20 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25988020cb0892,Outgoing,Call,Connected,"+91 7015283751",,IN,HR,26,"10-Jul-2019, 1:18 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25982df047d759,Outgoing,Call,Missed,"+91 9929955002",,IN,RJ,0,"10-Jul-2019, 1:16 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2595a192f60777,Outgoing,Call,Missed,"+91 7703980422","Madhu Ma\'am Jio",IN,DL,0,"10-Jul-2019, 1:06 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25958e76834613,Incoming,Call,Connected,"+91 7703980422","Madhu Ma\'am Jio",IN,DL,16,"10-Jul-2019, 1:06 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2594302f18a810,Outgoing,Call,Connected,"+91 9940206777","Karthikeyan S Keyence India",IN,CH,54,"10-Jul-2019, 12:59 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d258bee487da315,Outgoing,Call,Missed,"+91 8081909086","Sharad Perch",IN,UE,0,"10-Jul-2019, 12:25 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d258bd8b4dff375,Outgoing,Call,Connected,"+91 8081909086","Sharad Perch",IN,UE,9,"10-Jul-2019, 12:24 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d258bb18a4b6441,Outgoing,Call,Connected,"+91 9599788176","Saurav Kumar Cp 2 Inquiry",IN,DL,96,"10-Jul-2019, 12:22 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d258ba94332d764,Outgoing,Call,Connected,"+91 8081909086","Sharad Perch",IN,UE,308,"10-Jul-2019, 12:18 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d258a5239886276,Incoming,Call,Connected,"+91 9599788176","Saurav Kumar Cp 2 Inquiry",IN,DL,68,"10-Jul-2019, 12:17 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d258933aa5bc575,Outgoing,Call,Connected,"+91 7210787593","Abhishek Perch",IN,DL,177,"10-Jul-2019, 12:10 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d258707235d1509,Outgoing,Call,Missed,"+91 9929955002",,IN,RJ,0,"10-Jul-2019, 12:04 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2586f79e941457,Incoming,Call,Connected,"+91 9929955002",,IN,RJ,29,"10-Jul-2019, 12:03 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25844430966609,Outgoing,Call,Connected,"+91 7827352096","Khaki Jio",IN,DL,121,"10-Jul-2019, 11:50 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d258398b7b60262,Outgoing,Call,Connected,"+91 9810510792","Amit Kalra Great learning",IN,DL,137,"10-Jul-2019, 11:47 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2582f691d46724,Outgoing,Call,Connected,"+91 9999896463",,IN,DL,69,"10-Jul-2019, 11:45 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25829767cf7742,Outgoing,Call,Missed,"+91 9999896463",,IN,DL,0,"10-Jul-2019, 11:45 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d258278d1aa4754,Outgoing,Call,Missed,"+91 9810510792","Amit Kalra Great learning",IN,DL,0,"10-Jul-2019, 11:44 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25806bea77e790,Outgoing,Call,Connected,"+91 7289844570",,IN,DL,45,"10-Jul-2019, 11:35 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d258006c9c75194,Outgoing,Call,Missed,"+91 9810708529","CP 2 Guest Jindal Company",IN,DL,0,"10-Jul-2019, 11:34 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d257ea228ba5189,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,30,"10-Jul-2019, 11:27 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d257df585a0e494,Incoming,Call,Connected,"+91 9818587382",,IN,DL,22,"10-Jul-2019, 11:25 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d257bc68c4fa185,Incoming,Call,Connected,"+91 9711663477","Ajay Yadav Goibibo",IN,DL,6,"10-Jul-2019, 11:16 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d257b5169c21594,Outgoing,Call,Missed,"+91 8377938965",,IN,DL,0,"10-Jul-2019, 11:14 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d257b22c0d13467,Outgoing,Call,Connected,"+91 9958645684","Rakesh Sharma Fashion Square",IN,DL,157,"10-Jul-2019, 11:10 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25792d26640125,Incoming,Call,Connected,"+91 9711663477","Ajay Yadav Goibibo",IN,DL,99,"10-Jul-2019, 11:03 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2578b6f299f343,Outgoing,Call,Connected,"+91 1244370742",,IN,DL,192,"10-Jul-2019, 10:59 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2577cd59e31501,Outgoing,Call,Missed,"+91 8081909086","Sharad Perch",IN,UE,0,"10-Jul-2019, 10:59 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d257785ebf4d403,Incoming,Call,Connected,"+91 9818587382",,IN,DL,51,"10-Jul-2019, 10:57 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2577127b45b201,Incoming,Call,Connected,"+91 1776650205",,IN,HP,69,"10-Jul-2019, 10:55 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d257212f31ba682,Incoming,Call,Missed,"+91 9818587382",,IN,DL,0,"10-Jul-2019, 10:34 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d256eb6b8436140,Incoming,Call,Connected,"+91 1244370742",,IN,DL,5,"10-Jul-2019, 10:20 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25557a0f806722,Outgoing,Call,Connected,"+91 6396601897","Aniket Perch Arbor",IN,UW,520,"10-Jul-2019, 8:23 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25557849979572,Outgoing,Call,Missed,"+91 6396601897","Aniket Perch Arbor",IN,UW,0,"10-Jul-2019, 8:23 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d25556b4aa4c366,Incoming,Call,Connected,"+91 6396601897","Aniket Perch Arbor",IN,UW,0,"10-Jul-2019, 8:23 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25556a5bf7f829,Outgoing,Call,Connected,"+91 1244240093",,IN,DL,351,"10-Jul-2019, 8:17 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d25556a4259a439,Outgoing,Call,Missed,"+91 1244240093",,IN,DL,0,"10-Jul-2019, 8:16 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2555696ac8b744,Outgoing,Call,Missed,"+91 1244240093",,IN,DL,0,"10-Jul-2019, 8:16 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2555695202e517,Outgoing,Call,Connected,"+91 9818460612","Preeti Khetrapal Great Learning",IN,DL,333,"10-Jul-2019, 8:10 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d255566ae636967,Outgoing,Call,Connected,"+91 6396601897","Aniket Perch Arbor",IN,UW,246,"10-Jul-2019, 8:05 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d255567a1bc7198,Outgoing,Call,Connected,"+91 1244140128","Perch Arbor Golf Course Road",IN,DL,165,"10-Jul-2019, 8:02 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2555651e604116,Outgoing,Call,Connected,"+91 6396601897","Aniket Perch Arbor",IN,UW,96,"10-Jul-2019, 8:00 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d255565198f2757,Outgoing,Call,Missed,"+91 8375037435","Guest Seen",IN,DL,0,"10-Jul-2019, 8:00 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d255561f0eee803,Outgoing,Call,Missed,"+91 1244240093",,IN,DL,0,"10-Jul-2019, 7:59 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2555613dce1552,Incoming,Call,Missed,"+91 9343562737",,IN,KA,0,"10-Jul-2019, 4:21 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d255563b8233716,Incoming,Call,Missed,"+91 9818460612","Preeti Khetrapal Great Learning",IN,DL,0,"10-Jul-2019, 2:01 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d255560ab9ae828,Incoming,Call,Missed,"+91 9818460612","Preeti Khetrapal Great Learning",IN,DL,0,"10-Jul-2019, 1:43 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d24aa023fc0b312,Outgoing,Call,Connected,"+91 7210787593","Abhishek Perch",IN,DL,55,"09-Jul-2019, 8:20 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d24a75b3a7ab697,Incoming,Call,Connected,"+91 9820071463","Sarabjit Singh. sarab Inquiry",IN,MU,105,"09-Jul-2019, 7:51 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d24a75a4871b466,Outgoing,Call,Connected,"+91 1244370742",,IN,DL,54,"09-Jul-2019, 7:43 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d24a75a1e052916,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,79,"09-Jul-2019, 7:41 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d249f84a2344257,Outgoing,Call,Missed,"+91 8081909086","Sharad Perch",IN,UE,0,"09-Jul-2019, 7:35 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d249f84a918a668,Outgoing,Call,Missed,"+91 8081909086","Sharad Perch",IN,UE,0,"09-Jul-2019, 7:35 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d249f5eacbf2367,Incoming,Call,Connected,"+91 8081909086","Sharad Perch",IN,UE,18,"09-Jul-2019, 7:33 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d249eb859f77466,Outgoing,Call,Missed,"+91 8081909086","Sharad Perch",IN,UE,0,"09-Jul-2019, 7:32 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d249bcd26906420,Incoming,Call,Missed,"+91 9911087114",,IN,DL,0,"09-Jul-2019, 7:20 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2499e876ffc711,Outgoing,Call,Connected,"+91 9958103048","Sairam Sohna Road Guest",IN,DL,82,"09-Jul-2019, 7:11 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d24996433a88778,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,90,"09-Jul-2019, 7:08 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d24987c447cf958,Incoming,Call,Missed,"+91 8285441021","Suresh Perch Villa",IN,DL,0,"09-Jul-2019, 7:06 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d24932d7303f130,Incoming,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,114,"09-Jul-2019, 6:42 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d24924187fdc756,Outgoing,Call,Missed,"+91 9899479622","Shailender Arbor Manager",IN,DL,0,"09-Jul-2019, 6:39 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d24920831a2a242,Outgoing,Call,Missed,"+91 1244064860","Perch Arbor Cyber City",IN,DL,0,"09-Jul-2019, 6:38 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2491300cae2198,Outgoing,Call,Connected,"+91 8901199038",,IN,HR,58,"09-Jul-2019, 6:34 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d24904fd16bf672,Outgoing,Call,Connected,"+91 8586985515",,IN,DL,29,"09-Jul-2019, 6:31 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d24900d11d2e516,Outgoing,Call,Missed,"+91 8901199038",,IN,HR,0,"09-Jul-2019, 6:30 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d248a25d5310300,Incoming,Call,Connected,"+91 9717616178",,IN,DL,108,"09-Jul-2019, 6:03 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2488320b2b0954,Incoming,Call,Connected,"+91 1244370742",,IN,DL,221,"09-Jul-2019, 5:53 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2486c5375be492,Outgoing,Call,Connected,"+91 9881199926",,IN,MH,63,"09-Jul-2019, 5:49 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d24865ea8352618,Outgoing,Call,Missed,"+91 9881199926",,IN,MH,0,"09-Jul-2019, 5:49 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d248618befbb823,Incoming,Call,Connected,"+91 9343562737",,IN,KA,191,"09-Jul-2019, 5:44 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2483c88eeea831,Incoming,Call,Connected,"+91 9599788176","Saurav Kumar Cp 2 Inquiry",IN,DL,16,"09-Jul-2019, 5:38 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d247e872dbc8307,Outgoing,Call,Missed,"+91 7801862633",,IN,None,0,"09-Jul-2019, 5:15 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d247e81b1662975,Outgoing,Call,Missed,"+91 7801862633",,IN,None,0,"09-Jul-2019, 5:15 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d247e2cc5bcb914,Outgoing,Call,Connected,"+91 1244370742",,IN,DL,44,"09-Jul-2019, 5:13 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d247de743146998,Outgoing,Call,Connected,"+91 1244370742",,IN,DL,19,"09-Jul-2019, 5:12 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d247c983341b237,Outgoing,Call,Missed,"+91 9619369155",,IN,MU,0,"09-Jul-2019, 5:07 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d247c2b76f4d380,Outgoing,Call,Missed,"+91 7289844570",,IN,DL,0,"09-Jul-2019, 5:05 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d247b33d8936244,Outgoing,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,65,"09-Jul-2019, 5:00 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d24785a8c3a0704,Outgoing,Call,Missed,"+91 9717387779",,IN,DL,0,"09-Jul-2019, 4:49 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d24784d90279465,Outgoing,Call,Missed,"+91 7042741835",,IN,DL,0,"09-Jul-2019, 4:49 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2478044de0e894,Outgoing,Call,Missed,"+91 7042741835",,IN,DL,0,"09-Jul-2019, 4:48 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2477c9373bb716,Incoming,Call,Connected,"+91 9717387779",,IN,DL,119,"09-Jul-2019, 4:45 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d247587c70fa380,Outgoing,Call,Missed,"+91 9129832950",,IN,UE,0,"09-Jul-2019, 4:37 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d24757948642224,Outgoing,Call,Connected,"+91 7355744259",,IN,PB,24,"09-Jul-2019, 4:36 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2475782a930524,Outgoing,Call,Missed,"+91 7355744259",,IN,PB,0,"09-Jul-2019, 4:36 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d24753bbc391447,Outgoing,Call,Connected,"+91 9100304407",,IN,AP,37,"09-Jul-2019, 4:35 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2474f7bfe41590,Outgoing,Call,Connected,"+91 9125641376",,IN,UE,9,"09-Jul-2019, 4:34 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2473905f288382,Incoming,Call,Missed,"+91 4461198313",,IN,TN,0,"09-Jul-2019, 4:29 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2471a8649bb241,Outgoing,Call,Connected,"+91 9899586046",,IN,DL,77,"09-Jul-2019, 4:19 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d247091c0cb5283,Outgoing,Call,Missed,"+91 9125641376",,IN,UE,0,"09-Jul-2019, 4:16 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d24707175df5581,Outgoing,Call,Missed,"+91 9100304407",,IN,AP,0,"09-Jul-2019, 4:15 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2470593c8fb912,Outgoing,Call,Missed,"+91 7355744259",,IN,PB,0,"09-Jul-2019, 4:15 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d24704930314662,Outgoing,Call,Missed,"+91 9129832950",,IN,UE,0,"09-Jul-2019, 4:15 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d246dbc11425609,Incoming,Call,Connected,"+91 2067135800",,IN,MP,0,"09-Jul-2019, 4:04 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d246bc48763c885,Outgoing,Call,Missed,"+91 7042741835",,IN,DL,0,"09-Jul-2019, 3:54 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d246af40284f680,Outgoing,Call,Connected,"+91 7827352096","Khaki Jio",IN,DL,164,"09-Jul-2019, 3:49 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d246212b13b5511,Incoming,Call,Connected,"+91 8081909086","Sharad Perch",IN,UE,93,"09-Jul-2019, 3:12 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2460b38b417777,Incoming,Call,Connected,"+91 9899586046",,IN,DL,93,"09-Jul-2019, 3:06 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d245c79d9007490,Incoming,Call,Connected,"+91 9820071463","Sarabjit Singh. sarab Inquiry",IN,MU,72,"09-Jul-2019, 2:49 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2459734f9d3698,Incoming,Call,Missed,"+91 7042741835",,IN,DL,0,"09-Jul-2019, 2:37 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d24590497efe132,Incoming,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,8,"09-Jul-2019, 2:35 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d24547eae9c8784,Incoming,Call,Connected,"+91 1244284903",,IN,DL,31,"09-Jul-2019, 2:15 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2454303f0be656,Incoming,Call,Missed,"+91 1244284903",,IN,DL,0,"09-Jul-2019, 2:14 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2453f606a2f960,Incoming,Call,Missed,"+91 1244284903",,IN,DL,0,"09-Jul-2019, 2:14 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2452069746a634,Incoming,Call,Connected,"+91 9318437953",,IN,DL,72,"09-Jul-2019, 2:04 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d245074a7946288,Outgoing,Call,Missed,"+91 8081909086","Sharad Perch",IN,UE,0,"09-Jul-2019, 1:58 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d24503a980c9524,Outgoing,Call,Missed,"+91 8081909086","Sharad Perch",IN,UE,0,"09-Jul-2019, 1:58 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d244c7acc5cf927,Outgoing,Call,Connected,"+91 8081909086","Sharad Perch",IN,UE,65,"09-Jul-2019, 1:41 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d244bf592380560,Outgoing,Call,Connected,"+91 9871857763","Mani Drv",IN,DL,5,"09-Jul-2019, 1:40 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d244bdbb0e04174,Outgoing,Call,Connected,"+91 8882129865","Upadhyay Finance Manager",IN,DL,30,"09-Jul-2019, 1:39 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d244bda80b57241,Incoming,Call,Connected,"+91 9599788176","Saurav Kumar Cp 2 Inquiry",IN,DL,29,"09-Jul-2019, 1:36 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2449eda211c556,Outgoing,Call,Connected,"+91 9167970179","Chopra Amit Guest",IN,MU,9,"09-Jul-2019, 1:30 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d244481dd5c0770,Outgoing,Call,Connected,"+91 8009224321",,IN,UE,117,"09-Jul-2019, 1:06 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d243ffff3137621,Outgoing,Call,Connected,"+91 9167970179","Chopra Amit Guest",IN,MU,72,"09-Jul-2019, 12:47 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d243f54cf4f2281,Incoming,Call,Connected,"+91 9818982624","Soumya Sharma Corporate",IN,DL,15,"09-Jul-2019, 12:46 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d243dc449216713,Incoming,Call,Connected,"+91 9643528788",,IN,DL,44,"09-Jul-2019, 12:38 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d243d6eb5c9d912,Outgoing,Call,Missed,"+91 9167970179",,IN,MU,0,"09-Jul-2019, 12:37 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d243cffd22af658,Outgoing,Call,Connected,"+91 9820071463","Sarabjit Singh. sarab Inquiry",IN,MU,90,"09-Jul-2019, 12:34 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d243b73c42c1545,Outgoing,Call,Missed,"+91 7289844570",,IN,DL,0,"09-Jul-2019, 12:29 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d243b4d2689c148,Outgoing,Call,Missed,"+91 9930712951",,IN,MU,0,"09-Jul-2019, 12:29 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2439fe1ee1b258,Outgoing,Call,Missed,"+91 9820071463","Sarabjit Singh. sarab Inquiry",IN,MU,0,"09-Jul-2019, 12:23 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d24394e9fb8b188,Outgoing,Call,Missed,"+91 9818982624","Soumya Sharma Corporate",IN,DL,0,"09-Jul-2019, 12:20 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d243890f1bdd595,Incoming,Call,Connected,"+91 7982189378",,IN,DL,8,"09-Jul-2019, 12:17 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d24350b24c3f577,Incoming,Call,Connected,"+91 9311773375",,IN,DL,100,"09-Jul-2019, 12:00 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2434828d347246,Incoming,Call,Connected,"+91 1409303792",,IN,,1,"09-Jul-2019, 11:59 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2432f1d0c07219,Outgoing,Call,Missed,"+91 9540304373",,IN,DL,0,"09-Jul-2019, 11:53 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d242fbd4e043466,Incoming,Call,Connected,"+91 9909954386",,IN,GJ,35,"09-Jul-2019, 11:39 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d242d249a0d9817,Incoming,Call,Connected,"+91 9691577416",,IN,MP,53,"09-Jul-2019, 11:27 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d24272e01258621,Outgoing,Call,Connected,"+91 7303956787",,IN,DL,34,"09-Jul-2019, 11:02 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2426e64a4c1555,Outgoing,Call,Connected,"+91 9565427678",,IN,UE,39,"09-Jul-2019, 11:01 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d24267e6df0d474,Outgoing,Call,Connected,"+91 9890963666",,IN,MH,52,"09-Jul-2019, 10:59 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2423bc53e39508,Incoming,Call,Connected,"+91 9691577416",,IN,MP,370,"09-Jul-2019, 10:42 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d242233d85e7483,Outgoing,Call,Connected,"+91 7982189378",,IN,DL,29,"09-Jul-2019, 10:41 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2421810539d499,Incoming,Call,Missed,"+91 7303956787",,IN,DL,0,"09-Jul-2019, 10:21 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d242185cf7e6179,Incoming,Call,Missed,"+91 9565427678",,IN,UE,0,"09-Jul-2019, 10:19 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2421878d92f878,Incoming,Call,Missed,"+91 9890963666",,IN,MH,0,"09-Jul-2019, 10:12 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d236a1b4abce722,Incoming,Call,Missed,"+91 9844244269",,IN,KA,0,"08-Jul-2019, 9:36 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d23649b51e41684,Incoming,Call,Connected,"+91 9820071463","Sarabjit Singh. sarab Inquiry",IN,MU,69,"08-Jul-2019, 9:11 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2362421e887857,Incoming,Call,Connected,"+91 9826120437","Tarun Pillai Guest",IN,MP,35,"08-Jul-2019, 9:02 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d235f6a5fb42463,Outgoing,Call,Connected,"+91 7210787593","Abhishek Perch",IN,DL,291,"08-Jul-2019, 8:45 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d235e019ec91527,Outgoing,Call,Missed,"+91 7827352096","Khaki Jio",IN,DL,0,"08-Jul-2019, 8:44 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d235e0157416207,Outgoing,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,32,"08-Jul-2019, 8:43 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2352815b6a7448,Incoming,Call,Connected,"+91 8287959412","Aamod Sohna Road Manager",IN,DL,0,"08-Jul-2019, 7:54 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d23522bebd22302,Incoming,Call,Missed,"+91 8287959412","Aamod Sohna Road Manager",IN,DL,0,"08-Jul-2019, 7:54 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2352067a175682,Incoming,Call,Missed,"+91 8287959412","Aamod Sohna Road Manager",IN,DL,0,"08-Jul-2019, 7:53 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2351ccebe76400,Incoming,Call,Missed,"+91 8287959412","Aamod Sohna Road Manager",IN,DL,0,"08-Jul-2019, 7:52 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2350d731111571,Outgoing,Call,Connected,"+91 1244370742",,IN,DL,176,"08-Jul-2019, 7:44 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d234feabbe5d734,Outgoing,Call,Missed,"+91 8287959412","Aamod Sohna Road Manager",IN,DL,0,"08-Jul-2019, 7:43 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d234fc7f045d782,Incoming,Call,Connected,"+91 8287959412","Aamod Sohna Road Manager",IN,DL,22,"08-Jul-2019, 7:43 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2348711e12b753,Outgoing,Call,Connected,"+91 1244370742",,IN,DL,19,"08-Jul-2019, 7:12 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2346aa659f2361,Incoming,Call,Connected,"+91 6396601897","Aniket Perch Arbor",IN,UW,32,"08-Jul-2019, 7:04 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d23447d62036568,Incoming,Call,Missed,"+91 6396601897","Aniket Perch Arbor",IN,UW,0,"08-Jul-2019, 6:55 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d234403cd3dd736,Outgoing,Call,Connected,"+91 1244240093",,IN,DL,28,"08-Jul-2019, 6:53 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d23429c82d1f112,Outgoing,Call,Connected,"+91 9565427678",,IN,UE,32,"08-Jul-2019, 6:47 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2341db55f16206,Outgoing,Call,Missed,"+91 6396601897","Aniket Perch Arbor",IN,UW,0,"08-Jul-2019, 6:43 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d23409146076225,Outgoing,Call,Missed,"+91 9958645684","Rakesh Sharma Fashion Square",IN,DL,0,"08-Jul-2019, 6:38 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d234070f0ee1525,Outgoing,Call,Missed,"+91 9958645684","Rakesh Sharma Fashion Square",IN,DL,0,"08-Jul-2019, 6:38 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2340117a603684,Outgoing,Call,Connected,"+91 8932865634",,IN,AP,25,"08-Jul-2019, 6:36 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d233fc0af0a9995,Outgoing,Call,Missed,"+91 8423935671",,IN,UE,0,"08-Jul-2019, 6:35 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d233ab90f1dd433,Outgoing,Call,Missed,"+91 9899978141",,IN,DL,0,"08-Jul-2019, 6:14 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d233a279373b688,Outgoing,Call,Missed,"+91 9899978141",,IN,DL,0,"08-Jul-2019, 6:12 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2339c592202597,Outgoing,Call,Missed,"+91 9899978141",,IN,DL,0,"08-Jul-2019, 6:10 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2339b5aebeb667,Outgoing,Call,Missed,"+91 9899974141",,IN,DL,0,"08-Jul-2019, 6:10 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d23390ff2a78143,Outgoing,Call,Missed,"+91 9560093489","Rajat Vij Goibibo Mmt",IN,DL,0,"08-Jul-2019, 6:07 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2336514f483432,Incoming,Call,Connected,"+91 9926305468",,IN,MP,231,"08-Jul-2019, 5:51 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2334d31480b871,Incoming,Call,Connected,"+91 8077785951","Rahul Choudhary Room On Call",IN,KA,62,"08-Jul-2019, 5:48 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d23341b20a78140,Outgoing,Call,Missed,"+91 9910247460",,IN,DL,0,"08-Jul-2019, 5:45 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2333f21184c186,Outgoing,Call,Missed,"+91 9910247460",,IN,DL,0,"08-Jul-2019, 5:45 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2333e263573362,Outgoing,Call,Missed,"+91 8114076164",,IN,,0,"08-Jul-2019, 5:44 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2333b2b18c1253,Outgoing,Call,Missed,"+91 8114076164",,IN,,0,"08-Jul-2019, 5:44 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d23339e3bead246,Incoming,Call,Connected,"+91 8077785951","Rahul Choudhary Room On Call",IN,KA,166,"08-Jul-2019, 5:40 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d232b9acb622647,Incoming,Call,Connected,"+91 9819326607",,IN,MU,20,"08-Jul-2019, 5:09 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d232b8329267903,Incoming,Call,Connected,"+91 8258098511",,IN,KA,46,"08-Jul-2019, 5:08 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d232b1d21f33132,Outgoing,Call,Missed,"+91 9819326607",,IN,MU,0,"08-Jul-2019, 5:07 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d232af0c6662611,Outgoing,Call,Missed,"+91 9819326607",,IN,MU,0,"08-Jul-2019, 5:06 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d232494c8459587,Outgoing,Call,Missed,"+91 6201704315",,IN,BR,0,"08-Jul-2019, 4:39 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d23247abbaa5439,Outgoing,Call,Missed,"+91 8826137487",,IN,DL,0,"08-Jul-2019, 4:38 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d23226cba3a2811,Incoming,Call,Missed,"+91 6201704315",,IN,BR,0,"08-Jul-2019, 4:30 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2321fd6cdb7363,Outgoing,Call,Missed,"+91 6201704315",,IN,BR,0,"08-Jul-2019, 4:28 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2321c20fe43338,Incoming,Call,Connected,"+91 6201704315",,IN,BR,6,"08-Jul-2019, 4:27 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2321ab4716b909,Incoming,Call,Missed,"+91 6201704315",,IN,BR,0,"08-Jul-2019, 4:27 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2320e22b451487,Incoming,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,101,"08-Jul-2019, 4:20 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d23201094b2f557,Outgoing,Call,Connected,"+91 9810598009","Mansi House Of Kapali",IN,DL,27,"08-Jul-2019, 4:19 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d231f936c306937,Incoming,Call,Connected,"+91 9310924003",,IN,DL,26,"08-Jul-2019, 4:17 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d231d9c1699b178,Outgoing,Call,Connected,"+91 8957434687",,IN,UE,46,"08-Jul-2019, 4:09 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d231d1a24367611,Outgoing,Call,Connected,"+91 7985746488",,IN,UE,65,"08-Jul-2019, 4:06 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d23106e50eb6836,Incoming,Call,Connected,"+91 2067135800",,IN,MP,0,"08-Jul-2019, 3:13 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d230e7d0b2e5265,Incoming,Call,Connected,"+91 8802798950",,IN,DL,185,"08-Jul-2019, 3:02 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2302c0361d9853,Outgoing,Call,Connected,"+91 6207625763",,IN,BR,288,"08-Jul-2019, 2:10 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2301649d928219,Incoming,Call,Connected,"+91 7875180002",,IN,MH,201,"08-Jul-2019, 2:06 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d22fcf07fb51438,Outgoing,Call,Missed,"+91 6207625763",,IN,BR,0,"08-Jul-2019, 1:50 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22fc6693dc8347,Outgoing,Call,Missed,"+91 9871237687",,IN,DL,0,"08-Jul-2019, 1:47 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22faa8ce6d8445,Outgoing,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,205,"08-Jul-2019, 1:37 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d22f74ca936c732,Outgoing,Call,Connected,"+91 6396601897","Aniket Perch Arbor",IN,UW,437,"08-Jul-2019, 1:18 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d22f5623115b221,Incoming,Call,Connected,"+91 1244370742",,IN,DL,176,"08-Jul-2019, 1:15 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d22f39da2352166,Incoming,Call,Connected,"+91 7703980422","Madhu Ma\'am Jio",IN,DL,303,"08-Jul-2019, 1:05 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d22f224e1456970,Outgoing,Call,Missed,"+91 8081909086","Sharad Perch",IN,UE,0,"08-Jul-2019, 1:03 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22f19a3a217159,Incoming,Call,Connected,"+91 7827106274",,IN,DL,88,"08-Jul-2019, 1:00 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d22f07454665302,Incoming,Call,Connected,"+91 2067135800",,IN,MP,0,"08-Jul-2019, 12:57 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d22f023a3d62316,Outgoing,Call,Missed,"+91 9833493351",,IN,MU,0,"08-Jul-2019, 12:56 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22ef7c4922f468,Incoming,Call,Connected,"+91 6370524489",,IN,,187,"08-Jul-2019, 12:50 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d22ee9286d8b135,Outgoing,Call,Missed,"+91 6370524489",,IN,,0,"08-Jul-2019, 12:49 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22ee5631216492,Incoming,Call,Connected,"+91 7875180002",,IN,MH,27,"08-Jul-2019, 12:47 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d22ededd942b335,Outgoing,Call,Missed,"+91 9820885568",,IN,MU,0,"08-Jul-2019, 12:46 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22ed4848fb0778,Outgoing,Call,Connected,"+91 9820885568",,IN,MU,277,"08-Jul-2019, 12:39 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d22ea6a3e4e8405,Outgoing,Call,Missed,"+91 6370524489",,IN,,0,"08-Jul-2019, 12:31 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22e75fb4c25126,Outgoing,Call,Connected,"+91 7759919943",,IN,MP,182,"08-Jul-2019, 12:15 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,"saturday   [Noted ext 12], [Date 08-Jul-2019, 12:25 PM ]",0,0,0,0
+5d22e693cb6d2139,Outgoing,Call,Connected,"+91 7759919943",,IN,MP,265,"08-Jul-2019, 12:10 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,"need to call back on Friday   [Noted ext 12], [Date 08-Jul-2019, 12:28 PM ]",0,0,0,0
+5d22e508a9c74184,Incoming,Call,Missed,"+91 7759919943",,IN,MP,0,"08-Jul-2019, 12:08 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22e4d31c6c6973,Incoming,Call,Missed,"+91 7759919943",,IN,MP,0,"08-Jul-2019, 12:07 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22e456a76e4746,Outgoing,Call,Missed,"+91 9819326607",,IN,MU,0,"08-Jul-2019, 12:05 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22e42faa560370,Outgoing,Call,Missed,"+91 6392364466",,IN,UE,0,"08-Jul-2019, 12:05 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22e2f24bf2a494,Outgoing,Call,Connected,"+91 8668175657",,IN,AP,176,"08-Jul-2019, 11:57 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d22e20b389b1208,Outgoing,Call,Missed,"+91 9910247460",,IN,DL,0,"08-Jul-2019, 11:55 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22e1c5bd4e5270,Outgoing,Call,Missed,"+91 6392364466",,IN,UE,0,"08-Jul-2019, 11:54 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22e1a5df9a1413,Outgoing,Call,Missed,"+91 9819326607",,IN,MU,0,"08-Jul-2019, 11:54 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22e157248b5317,Outgoing,Call,Missed,"+91 7619958579",,IN,,0,"08-Jul-2019, 11:52 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22e147bc1f4968,Outgoing,Call,Missed,"+91 76199585579",,IN,,0,"08-Jul-2019, 11:52 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22e09c0343d490,Outgoing,Call,Connected,"+91 7380620410",,IN,PB,21,"08-Jul-2019, 11:49 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d22e05451b15366,Outgoing,Call,Missed,"+91 9910247460",,IN,DL,0,"08-Jul-2019, 11:48 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22e01a3ef6d818,Outgoing,Call,Missed,"+91 8668175657",,IN,AP,0,"08-Jul-2019, 11:47 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22df69ac2fc855,Outgoing,Call,Connected,"+91 8874644444",,IN,UE,233,"08-Jul-2019, 11:40 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d22de5be778b972,Outgoing,Call,Missed,"+91 9664080794",,IN,MU,0,"08-Jul-2019, 11:40 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22d7fe1a45b621,Incoming,Call,Connected,"+91 2067135800",,IN,MP,0,"08-Jul-2019, 11:13 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d22d7010eb07569,Incoming,Call,Connected,"+91 9664080794",,IN,MU,103,"08-Jul-2019, 11:07 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d22d58dbdc88816,Outgoing,Call,Connected,"+91 9820071463","Sarabjit Singh. sarab Inquiry",IN,MU,140,"08-Jul-2019, 10:59 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d22d450dfce2851,Outgoing,Call,Missed,"+91 9820071463","Sarabjit Singh. sarab Inquiry",IN,MU,0,"08-Jul-2019, 10:57 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22d2f5cc4f6342,Outgoing,Call,Connected,"+91 7982189378",,IN,DL,382,"08-Jul-2019, 10:44 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d22cede54c63570,Incoming,Call,Missed,"+91 8874644444",,IN,UE,0,"08-Jul-2019, 10:25 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22cedd4c4e3157,Incoming,Call,Missed,"+91 9664080794",,IN,MU,0,"08-Jul-2019, 7:31 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d22ceddd5ab7413,Incoming,Call,Missed,"+91 9664080794",,IN,MU,0,"08-Jul-2019, 7:31 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d221d693e9b5690,Outgoing,Call,Connected,"+91 9958103048","Sairam Sohna Road Guest",IN,DL,28,"07-Jul-2019, 9:54 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d221bae6a871891,Outgoing,Call,Missed,"+91 9354213412","Monu Jio",IN,DL,0,"07-Jul-2019, 9:48 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d221baebefc2902,Incoming,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,13,"07-Jul-2019, 9:48 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d221bae0d00f200,Outgoing,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,42,"07-Jul-2019, 9:47 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d221baddf371719,Outgoing,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,224,"07-Jul-2019, 8:44 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d221b98ca6f2195,Outgoing,Call,Connected,"+91 9999310204",Mustkim,IN,DL,40,"07-Jul-2019, 8:43 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d221b8e2aabd187,Incoming,Call,Missed,"+91 4461198313",,IN,TN,0,"07-Jul-2019, 6:52 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d221b8e75b31654,Incoming,Call,Missed,"+91 9958103048","Sairam Sohna Road Guest",IN,DL,0,"07-Jul-2019, 6:00 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d221baee533a318,Incoming,Call,Missed,"+91 9833493351",,IN,MU,0,"07-Jul-2019, 4:34 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d221baf4c266144,Incoming,Call,Missed,"+91 9971002701",,IN,DL,0,"07-Jul-2019, 4:20 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d221a914d602999,Incoming,Call,Missed,"+91 9899479622","Shailender Arbor Manager",IN,DL,0,"07-Jul-2019, 3:53 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d221a86938d2864,Incoming,Call,Missed,"+91 9958664471",,IN,DL,0,"07-Jul-2019, 3:52 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d221a869989e228,Incoming,Call,Missed,"+91 9958664471",,IN,DL,0,"07-Jul-2019, 3:46 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d221a7142109671,Incoming,Call,Missed,"+91 9958664471",,IN,DL,0,"07-Jul-2019, 3:41 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d21c3ddd076a316,Outgoing,Call,Missed,"+91 6207625763",,IN,BR,0,"07-Jul-2019, 3:34 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d21ac56388fe640,Incoming,Call,Missed,"+91 9354213412","Monu Jio",IN,DL,0,"07-Jul-2019, 1:54 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d21a5ea7b32b158,Outgoing,Call,Connected,"+91 9999310204",Mustkim,IN,DL,41,"07-Jul-2019, 1:26 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d21a5ea3231b445,Incoming,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,7,"07-Jul-2019, 1:25 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d21a4eae69f4458,Incoming,Call,Missed,"+91 9971539929",,IN,DL,0,"07-Jul-2019, 1:22 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d219e869e73b363,Incoming,Call,Missed,"+91 9874411946",,IN,KO,0,"07-Jul-2019, 12:55 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d21933020af4369,Incoming,Call,Missed,"+91 9890963666",,IN,MH,0,"07-Jul-2019, 12:07 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d21932fb242b849,Incoming,Call,Missed,"+91 9890963666",,IN,MH,0,"07-Jul-2019, 12:02 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d21932f2ab41462,Incoming,Call,Missed,"+91 9312263614",,IN,DL,0,"07-Jul-2019, 11:19 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d21872662aca561,Incoming,Call,Missed,"+91 9711484645",,IN,DL,0,"07-Jul-2019, 11:15 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2186d7a04d2957,Incoming,Call,Missed,"+91 9866234348",,IN,AP,0,"07-Jul-2019, 11:14 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d21845096a37793,Outgoing,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,69,"07-Jul-2019, 11:02 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d218450428af930,Outgoing,Call,Connected,"+91 9999310204",Mustkim,IN,DL,103,"07-Jul-2019, 11:00 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d21844e5e656395,Outgoing,Call,Connected,"+91 9871392022","Sispal AC Wala",IN,DL,65,"07-Jul-2019, 10:59 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2183876ad3c599,Incoming,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,33,"07-Jul-2019, 10:58 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2182b102995235,Outgoing,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,69,"07-Jul-2019, 10:55 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2175fe59a30265,Incoming,Call,Connected,"+91 9958103048","Sairam Sohna Road Guest",IN,DL,117,"07-Jul-2019, 9:58 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2175fdce006225,Incoming,Call,Missed,"+91 9212400240","Indiyaah Inn Nitin Inquiry",IN,DL,0,"07-Jul-2019, 8:24 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2175fd4fd77865,Incoming,Call,Missed,"+91 2262208313",,IN,MU,0,"07-Jul-2019, 1:56 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d209c0e3e1b3454,Outgoing,Call,Missed,"+91 9927949929",,IN,UW,0,"06-Jul-2019, 6:32 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d209bc8c525f373,Outgoing,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,17,"06-Jul-2019, 6:31 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2097a9e1283455,Outgoing,Call,Missed,"+91 9899479622","Shailender Arbor Manager",IN,DL,0,"06-Jul-2019, 6:14 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d20975db4d3e758,Incoming,Call,Connected,"+91 9927949929",,IN,UW,41,"06-Jul-2019, 6:10 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d20959aa007e650,Outgoing,Call,Missed,"+91 8285441021","Suresh Perch Villa",IN,DL,0,"06-Jul-2019, 6:05 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2094cf24efb836,Incoming,Call,Connected,"+91 9966777227",,IN,AP,35,"06-Jul-2019, 6:01 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d208aae9963b586,Incoming,Call,Connected,"+91 9927949929",,IN,UW,22,"06-Jul-2019, 5:18 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d208a346b5d0162,Outgoing,Call,Connected,"+91 9820465061",,IN,MU,286,"06-Jul-2019, 5:11 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d20854ccdb83869,Outgoing,Call,Missed,"+91 8587990514",,IN,DL,0,"06-Jul-2019, 4:55 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2081f1dadac211,Outgoing,Call,Missed,"+91 8587990514",,IN,DL,0,"06-Jul-2019, 4:41 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d20806714a24795,Incoming,Call,Connected,"+91 9927949929",,IN,UW,164,"06-Jul-2019, 4:32 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d207e73c8d57436,Outgoing,Call,Missed,"+91 8081909086","Sharad Perch",IN,UE,0,"06-Jul-2019, 4:26 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d207e438ae2d661,Outgoing,Call,Missed,"+91 9966777227",,IN,AP,0,"06-Jul-2019, 4:25 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d207e203d639152,Outgoing,Call,Connected,"+91 8802540486",,IN,DL,33,"06-Jul-2019, 4:22 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d207d4eb8aa8303,Outgoing,Call,Connected,"+91 9650906992",,IN,DL,27,"06-Jul-2019, 4:21 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d207be24b577166,Outgoing,Call,Connected,"+91 8081909086","Sharad Perch",IN,UE,48,"06-Jul-2019, 4:14 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2077377f492669,Outgoing,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,39,"06-Jul-2019, 3:54 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d206e752fd1a717,Outgoing,Call,Missed,"+91 91501423465",,IN,RJ,0,"06-Jul-2019, 3:18 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d206e73c634a166,Outgoing,Call,Missed,"+91 91501423465",,IN,RJ,0,"06-Jul-2019, 3:18 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d206c07a200b178,Incoming,Call,Missed,"+91 7490958888",,IN,GJ,0,"06-Jul-2019, 3:05 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d2064ee07e6a328,Incoming,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,136,"06-Jul-2019, 2:34 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d205be086619672,Incoming,Call,Connected,"+91 1416684011",,IN,RJ,57,"06-Jul-2019, 1:57 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d205afd9f722610,Outgoing,Call,Missed,"+91 9354213412","Monu Jio",IN,DL,0,"06-Jul-2019, 1:54 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d205a8eaefb6531,Incoming,Call,Connected,"+91 1244370742",,IN,DL,24,"06-Jul-2019, 1:52 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d205707ddd3a806,Outgoing,Call,Missed,"+91 8302674106",,IN,RJ,0,"06-Jul-2019, 1:38 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d205601cc0fd471,Incoming,Call,Connected,"+91 1244370742",,IN,DL,50,"06-Jul-2019, 1:33 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2055a1785f7503,Incoming,Call,Connected,"+91 8588934107",,IN,DL,34,"06-Jul-2019, 1:31 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2052dfc8cd7854,Outgoing,Call,Connected,"+91 7619958579",,IN,,53,"06-Jul-2019, 1:19 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d204bddac3a4634,Outgoing,Call,Missed,"+91 9649861336",,IN,RJ,0,"06-Jul-2019, 12:50 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d204add4fb37662,Outgoing,Call,Missed,"+91 7703980422","Madhu Ma\'am Jio",IN,DL,0,"06-Jul-2019, 12:46 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d204abb167a8284,Outgoing,Call,Connected,"+91 7703980422","Madhu Ma\'am Jio",IN,DL,14,"06-Jul-2019, 12:45 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d20449289285189,Incoming,Call,Connected,"+91 9509420731",,IN,RJ,36,"06-Jul-2019, 12:18 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d2043504edc3344,Incoming,Call,Missed,"+91 9654272007","Shaurya Sir",IN,DL,0,"06-Jul-2019, 12:14 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d203e7e3a84f146,Incoming,Call,Connected,"+91 8800760722",,IN,DL,30,"06-Jul-2019, 11:53 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d203dee8e98f587,Incoming,Call,Connected,"+91 9833442050",,IN,MU,41,"06-Jul-2019, 11:50 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d203d3b6b03c531,Incoming,Call,Connected,"+91 9004940961",,IN,MU,62,"06-Jul-2019, 11:47 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d203a657f931336,Incoming,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,4,"06-Jul-2019, 11:36 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d20396e41713130,Incoming,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,219,"06-Jul-2019, 11:28 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d203571c1f90718,Incoming,Call,Connected,"+91 1244370742",,IN,DL,48,"06-Jul-2019, 11:14 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d202c3f7ed45698,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,9,"06-Jul-2019, 10:35 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d202bf64a8ee511,Incoming,Call,Connected,"+91 7982189378",,IN,DL,471,"06-Jul-2019, 10:26 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d20295ba44d4889,Outgoing,Call,Connected,"+91 8081909086","Sharad Perch",IN,UE,43,"06-Jul-2019, 10:22 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d20266bac179837,Incoming,Call,Missed,"+91 2262208313",,IN,MU,0,"05-Jul-2019, 11:46 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f878050964886,Incoming,Call,Missed,"+91 9560083168",,IN,DL,0,"05-Jul-2019, 10:51 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f795ea8bec626,Incoming,Call,Connected,"+91 9958103048","Sairam Sohna Road Guest",IN,DL,141,"05-Jul-2019, 9:50 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f779f783d0966,Outgoing,Call,Connected,"+91 1244064860","Perch Arbor Cyber City",IN,DL,66,"05-Jul-2019, 9:43 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f77357eb15336,Incoming,Call,Connected,"+91 9958103048","Sairam Sohna Road Guest",IN,DL,37,"05-Jul-2019, 9:42 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f76a42f295305,Outgoing,Call,Connected,"+91 9958103048","Sairam Sohna Road Guest",IN,DL,33,"05-Jul-2019, 9:40 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f763252cca644,Outgoing,Call,Missed,"+91 9958103048",,IN,DL,0,"05-Jul-2019, 9:37 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f75664af29276,Incoming,Call,Connected,"+91 7002898983","Asmit Inquiry",IN,AS,27,"05-Jul-2019, 9:34 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f74b1bb9e0848,Incoming,Call,Missed,"+91 9958103048",,IN,DL,0,"05-Jul-2019, 9:32 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f74b13d920998,Incoming,Call,Missed,"+91 9873884418",,IN,DL,0,"05-Jul-2019, 9:28 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f6bc90a552161,Incoming,Call,Missed,"+91 9873884418",,IN,DL,0,"05-Jul-2019, 8:54 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f68bbe2091419,Outgoing,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,37,"05-Jul-2019, 8:40 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f667756950740,Incoming,Call,Missed,"+91 4461198313",,IN,TN,0,"05-Jul-2019, 8:31 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f65708afec154,Incoming,Call,Missed,"+91 7002898983","Asmit Inquiry",IN,AS,0,"05-Jul-2019, 8:27 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f59baa48da615,Incoming,Call,Missed,"+91 9811311969",,IN,DL,0,"05-Jul-2019, 7:36 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f4f71659f1242,Outgoing,Call,Connected,"+91 9779153253",,IN,PB,36,"05-Jul-2019, 6:53 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f4eda8f341660,Outgoing,Call,Connected,"+91 9650628650",,IN,DL,34,"05-Jul-2019, 6:50 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f4e6b63d90839,Incoming,Call,Connected,"+91 7002898983","Asmit Inquiry",IN,AS,33,"05-Jul-2019, 6:48 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f4dc556ab6375,Outgoing,Call,Connected,"+91 7011609236",,IN,DL,88,"05-Jul-2019, 6:45 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f4bfad1417768,Incoming,Call,Missed,"+91 7011609236",,IN,DL,0,"05-Jul-2019, 6:38 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f4732415a1969,Outgoing,Call,Connected,"+91 1244064860","Perch Arbor Cyber City",IN,DL,159,"05-Jul-2019, 6:15 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f46170a761577,Incoming,Call,Connected,"+91 7042236696",,IN,DL,103,"05-Jul-2019, 6:11 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f45624e679157,Outgoing,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,12,"05-Jul-2019, 6:10 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f4269d7580867,Outgoing,Call,Connected,"+91 9899479622","Shailender Arbor Manager",IN,DL,436,"05-Jul-2019, 5:50 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f404dda239114,Incoming,Call,Connected,"+91 8800414040",,IN,DL,24,"05-Jul-2019, 5:48 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f4000936f8711,Incoming,Call,Connected,"+91 7002898983","Asmit Inquiry",IN,AS,31,"05-Jul-2019, 5:47 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f3fbc553d0421,Outgoing,Call,Connected,"+91 7002898983","Asmit Inquiry",IN,AS,35,"05-Jul-2019, 5:45 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f3f65db666891,Incoming,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,142,"05-Jul-2019, 5:42 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f3be15122d898,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,13,"05-Jul-2019, 5:29 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f3ba6aaffe537,Outgoing,Call,Connected,"+91 9205408540",,IN,DL,135,"05-Jul-2019, 5:27 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f3ae72ea94264,Incoming,Call,Connected,"+91 7002898983","Asmit Inquiry",IN,AS,39,"05-Jul-2019, 5:25 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f3aa73f929302,Incoming,Call,Connected,"+91 7002898983","Asmit Inquiry",IN,AS,12,"05-Jul-2019, 5:24 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f3a742416b179,Outgoing,Call,Connected,"+91 9871392022","Sispal AC Wala",IN,DL,53,"05-Jul-2019, 5:23 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f39e9589a1854,Outgoing,Call,Missed,"+91 9205408540",,IN,DL,0,"05-Jul-2019, 5:21 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f374117449529,Incoming,Call,Connected,"+91 9205408540",,IN,DL,136,"05-Jul-2019, 5:08 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f367d624e4707,Incoming,Call,Connected,"+91 9205408540",,IN,DL,32,"05-Jul-2019, 5:06 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f35f6957ca785,Incoming,Call,Connected,"+91 8824949835",,IN,RJ,21,"05-Jul-2019, 5:04 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f358cab15f853,Outgoing,Call,Missed,"+91 1244370742",,IN,DL,0,"05-Jul-2019, 5:03 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f356a1f0c6120,Outgoing,Call,Missed,"+91 8081909086","Sharad Perch",IN,UE,0,"05-Jul-2019, 5:01 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f34cd33d34445,Outgoing,Call,Missed,"+91 8285441021","Suresh Perch Villa",IN,DL,0,"05-Jul-2019, 4:59 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f348eb1472294,Outgoing,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,14,"05-Jul-2019, 4:58 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f3294ecc55451,Outgoing,Call,Connected,"+91 9867300551",,IN,MU,91,"05-Jul-2019, 4:48 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f2fca99ee3763,Outgoing,Call,Connected,"+91 8081909086","Sharad Perch",IN,UE,57,"05-Jul-2019, 4:37 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f2d9b93eb8888,Outgoing,Call,Connected,"+91 7002898983","Asmit Inquiry",IN,AS,35,"05-Jul-2019, 4:28 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f2d603d011740,Outgoing,Call,Connected,"+91 9871392022","Sispal AC Wala",IN,DL,46,"05-Jul-2019, 4:27 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f2ced9744e984,Incoming,Call,Connected,"+91 7002898983","Asmit Inquiry",IN,AS,16,"05-Jul-2019, 4:26 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f26cdf1487315,Outgoing,Call,Missed,"+91 9999648266",,IN,DL,0,"05-Jul-2019, 4:00 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f26abee447424,Incoming,Call,Connected,"+91 9643879841",,IN,DL,29,"05-Jul-2019, 3:59 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f216deca92750,Incoming,Call,Connected,"+91 6264642729",,IN,MP,91,"05-Jul-2019, 3:35 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f203da3dd3656,Incoming,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,40,"05-Jul-2019, 3:31 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f1f4aaa1ad427,Incoming,Call,Connected,"+91 6264642729",,IN,MP,153,"05-Jul-2019, 3:25 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f1ce709c1d576,Incoming,Call,Connected,"+91 7703980422","Madhu Ma\'am Jio",IN,DL,141,"05-Jul-2019, 3:15 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f1c20d86c9557,Outgoing,Call,Missed,"+91 9871392022",,IN,DL,0,"05-Jul-2019, 3:14 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f1bf0b55fe793,Incoming,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,173,"05-Jul-2019, 3:11 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f1785293af945,Incoming,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,54,"05-Jul-2019, 2:54 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f155714649393,Incoming,Call,Connected,"+91 1161249153",,IN,DL,19,"05-Jul-2019, 2:45 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f15204d743349,Incoming,Call,Missed,"+91 9354213412","Monu Jio",IN,DL,0,"05-Jul-2019, 2:44 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f122e18edf314,Outgoing,Call,Missed,"+91 9718719512",,IN,DL,0,"05-Jul-2019, 2:32 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f121fe6fd9448,Outgoing,Call,Missed,"+91 9718719512",,IN,DL,0,"05-Jul-2019, 2:32 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f1207d9333271,Incoming,Call,Connected,"+91 9599788176","Saurav Kumar Cp 2 Inquiry",IN,DL,29,"05-Jul-2019, 2:31 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f11c2f0751541,Outgoing,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,26,"05-Jul-2019, 2:29 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f10f04af40719,Incoming,Call,Connected,"+91 7002898983","Asmit Inquiry",IN,AS,6,"05-Jul-2019, 2:26 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f0f3d8cb5e665,Incoming,Call,Missed,"+91 7002898983","Asmit Inquiry",IN,AS,0,"05-Jul-2019, 2:19 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f0f15c4da4389,Incoming,Call,Connected,"+91 7002898983","Asmit Inquiry",IN,AS,30,"05-Jul-2019, 2:18 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f0e6231e6a231,Incoming,Call,Connected,"+91 7002898983","Asmit Inquiry",IN,AS,24,"05-Jul-2019, 2:15 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f0a11c0733185,Incoming,Call,Connected,"+91 9650344545","Sushil Tyagi Inquiry",IN,DL,106,"05-Jul-2019, 1:55 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f03626d3f5143,Outgoing,Call,Connected,"+91 7002898983","Asmit Inquiry",IN,AS,29,"05-Jul-2019, 1:28 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f032b8ae84340,Outgoing,Call,Missed,"+91 9711201280","Asmit Singh",IN,DL,0,"05-Jul-2019, 1:28 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1f02f266514195,Outgoing,Call,Connected,"+91 7715001007",,IN,,200,"05-Jul-2019, 1:23 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1f003888540938,Outgoing,Call,Connected,"+91 8081909086","Sharad Perch",IN,UE,59,"05-Jul-2019, 1:14 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1effdb396b1170,Outgoing,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,26,"05-Jul-2019, 1:13 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1eff76e1719436,Outgoing,Call,Missed,"+91 9354213412","Monu Jio",IN,DL,0,"05-Jul-2019, 1:11 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1eff2c5784e821,Outgoing,Call,Missed,"+91 9565162000",,IN,UE,0,"05-Jul-2019, 1:10 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1eff0e70af1154,Outgoing,Call,Connected,"+91 9565162000",,IN,UE,4,"05-Jul-2019, 1:10 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1efe23e949b751,Outgoing,Call,Missed,"+91 1141209160",,IN,DL,0,"05-Jul-2019, 1:06 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1efe1231417213,Incoming,Call,Missed,"+91 1141209160",,IN,DL,0,"05-Jul-2019, 1:06 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1efc8ccccc6613,Outgoing,Call,Missed,"+91 9718584420","Geeta Divine Company",IN,DL,0,"05-Jul-2019, 12:59 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1efc697bbb7159,Outgoing,Call,Connected,"+91 9810510792","Amit Kalra Great learning",IN,DL,26,"05-Jul-2019, 12:58 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1efbc5efd45281,Outgoing,Call,Connected,"+91 7999393564",,IN,MP,76,"05-Jul-2019, 12:55 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1efb238630e212,Incoming,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,62,"05-Jul-2019, 12:53 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1ef9dd2173c470,Outgoing,Call,Missed,"+91 9711201280",,IN,DL,0,"05-Jul-2019, 12:48 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1ef9b33b4d8501,Outgoing,Call,Missed,"+91 9711201280",,IN,DL,0,"05-Jul-2019, 12:47 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1ef97c71307147,Incoming,Call,Connected,"+91 7002898983","Asmit Inquiry",IN,AS,227,"05-Jul-2019, 12:43 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1ef890d525c212,Incoming,Call,Connected,"+91 7002898983","Asmit Inquiry",IN,AS,19,"05-Jul-2019, 12:42 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1ef735219cb864,Outgoing,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,9,"05-Jul-2019, 12:37 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1ef6c0c8a93728,Incoming,Call,Connected,"+91 7002898983","Asmit Inquiry",IN,AS,25,"05-Jul-2019, 12:35 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1ef5d57af9f167,Outgoing,Call,Missed,"+91 8929345839",,IN,DL,0,"05-Jul-2019, 12:31 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1ef5d81162f272,Outgoing,Call,Missed,"+91 8929345839",,IN,DL,0,"05-Jul-2019, 12:31 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1ef46a4c67b759,Outgoing,Call,Connected,"+91 9354213412","Monu Jio",IN,DL,20,"05-Jul-2019, 12:24 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1ef42c7f79d484,Outgoing,Call,Missed,"+91 7042998326","Monu Perch",IN,DL,0,"05-Jul-2019, 12:24 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1ef37014b44274,Outgoing,Call,Missed,"+91 7002898983",,IN,AS,0,"05-Jul-2019, 12:21 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1ef2532f047604,Outgoing,Call,Connected,"+91 7827352096","Khaki Jio",IN,DL,365,"05-Jul-2019, 12:10 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1eef9659098304,Incoming,Call,Connected,"+91 7002898983",,IN,AS,316,"05-Jul-2019, 11:59 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1ee9f6a7bef310,Outgoing,Call,Missed,"+91 9867300551",,IN,MU,0,"05-Jul-2019, 11:40 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1ee8faeaf9c649,Incoming,Call,Connected,"+91 8081909086","Sharad Perch",IN,UE,15,"05-Jul-2019, 11:36 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1ee87e68215179,Outgoing,Call,Connected,"+91 9829016362","Guest Amit Gupta",IN,RJ,147,"05-Jul-2019, 11:31 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1ee5251b0f6776,Incoming,Call,Connected,"+91 7875180003",,IN,MH,447,"05-Jul-2019, 11:12 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1edda052a4e780,Outgoing,Call,Connected,"+91 8285441021","Suresh Perch Villa",IN,DL,14,"05-Jul-2019, 10:47 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1ed8e045b1e915,Incoming,Call,Connected,"+91 9212400240","Indiyaah Inn Nitin Inquiry",IN,DL,165,"05-Jul-2019, 9:06 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1e2b30bba6d810,Incoming,Call,Missed,"+91 8929345839",,IN,DL,0,"04-Jul-2019, 9:58 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1e228b6979e886,Outgoing,Call,Connected,"+91 6396601897","Aniket Perch Arbor",IN,UW,473,"04-Jul-2019, 9:21 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1e1797049b5969,Incoming,Call,Missed,"+91 9811252411",,IN,DL,0,"04-Jul-2019, 8:40 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1e01cf4bdc9976,Outgoing,Call,Missed,"+91 9654272007","Shaurya Sir",IN,DL,0,"04-Jul-2019, 7:09 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1dfe548d928448,Outgoing,Call,Missed,"+91 1244064860","Perch Arbor Cyber City",IN,DL,0,"04-Jul-2019, 6:54 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1dfd989276a556,Outgoing,Call,Missed,"+91 7999393564",,IN,MP,0,"04-Jul-2019, 6:52 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1df7cab2dac149,Incoming,Call,Connected,"+91 1244370742",,IN,DL,20,"04-Jul-2019, 6:27 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1df6be2af3c478,Incoming,Call,Connected,"+91 9649861336",,IN,RJ,134,"04-Jul-2019, 6:20 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1dedb63f189133,Incoming,Call,Connected,"+91 1244370742",,IN,DL,145,"04-Jul-2019, 5:41 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1deaebaec78276,Incoming,Call,Connected,"+91 7703980422","Madhu Ma\'am Jio",IN,DL,262,"04-Jul-2019, 5:28 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1de9a6c213d359,Outgoing,Call,Connected,"+91 9816015000",,IN,HP,222,"04-Jul-2019, 5:23 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1de57d6f4ef537,Outgoing,Call,Connected,"+91 7999393564",,IN,MP,97,"04-Jul-2019, 5:07 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1de4dea236e612,Outgoing,Call,Connected,"+91 9910860043",,IN,DL,109,"04-Jul-2019, 5:04 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1ddde858e9a737,Outgoing,Call,Missed,"+91 9650344545","Sushil Tyagi Inquiry",IN,DL,0,"04-Jul-2019, 4:36 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1ddddf70146514,Outgoing,Call,Missed,"+91 9650344545","Sushil Tyagi Inquiry",IN,DL,0,"04-Jul-2019, 4:36 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1ddd7a0ab5f456,Incoming,Call,Connected,"+91 8081909086","Sharad Perch",IN,UE,25,"04-Jul-2019, 4:34 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1ddd4472300954,Outgoing,Call,Missed,"+91 8081909086","Sharad Perch",IN,UE,0,"04-Jul-2019, 4:33 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1dd668259f1124,Outgoing,Call,Connected,"+91 1244064860","Perch Arbor Cyber City",IN,DL,18,"04-Jul-2019, 4:04 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1dd6335668a673,Outgoing,Call,Missed,"+91 9899479622","Shailender Arbor Manager",IN,DL,0,"04-Jul-2019, 4:04 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1dd60a318ca427,Outgoing,Call,Connected,"+91 9599662410",,IN,DL,42,"04-Jul-2019, 4:02 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1dd5a92e3de138,Outgoing,Call,Missed,"+91 9599662410",,IN,DL,0,"04-Jul-2019, 4:01 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1dd5991ffe3462,Outgoing,Call,Missed,"+91 9599662410",,IN,DL,0,"04-Jul-2019, 4:01 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1dd53d06865122,Incoming,Call,Connected,"+91 9569873738",,IN,PB,46,"04-Jul-2019, 3:59 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1dd05263ddc447,Outgoing,Call,Connected,"+91 8351058057","Dr Devender Inquiry",IN,KA,257,"04-Jul-2019, 3:34 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1dcf1ce7806323,Incoming,Call,Missed,"+91 8351058057","Dr Devender Inquiry",IN,KA,0,"04-Jul-2019, 3:33 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1dced77381c690,Outgoing,Call,Connected,"+91 1244064860","Perch Arbor Cyber City",IN,DL,129,"04-Jul-2019, 3:30 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1dce41dc100626,Outgoing,Call,Missed,"+91 9899479622","Shailender Arbor Manager",IN,DL,0,"04-Jul-2019, 3:29 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1dc8c860668847,Incoming,Call,Connected,"+91 8351058057","Dr Devender Inquiry",IN,KA,13,"04-Jul-2019, 3:06 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1dc7d8834b7890,Outgoing,Call,Missed,"+91 8351058057","Dr Devender Inquiry",IN,KA,0,"04-Jul-2019, 3:02 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1dc759da5bc662,Outgoing,Call,Missed,"+91 8351058057","Dr Devender Inquiry",IN,KA,0,"04-Jul-2019, 3:00 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1dc74beb4d6267,Incoming,Call,Missed,"+91 8351058057","Dr Devender Inquiry",IN,KA,0,"04-Jul-2019, 2:59 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1dc5b85cca4722,Incoming,Call,Connected,"+91 9650344545","Sushil Tyagi Inquiry",IN,DL,88,"04-Jul-2019, 2:52 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1dbefe9f737316,Incoming,Call,Connected,"+91 8351058057","Dr Devender Inquiry",IN,KA,83,"04-Jul-2019, 2:23 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1dbac16fc3b741,Outgoing,Call,Connected,"+91 7210787593","Abhishek Perch",IN,DL,67,"04-Jul-2019, 2:05 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1db4c578026668,Incoming,Call,Connected,"+91 9811058159","Dr Surbhi Fortis Corporate Client",IN,DL,49,"04-Jul-2019, 1:40 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1db471851e1224,Incoming,Call,Connected,"+91 8398033636",,IN,HR,196,"04-Jul-2019, 1:33 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1da3823472b123,Incoming,Call,Connected,"+91 9996523879",,IN,HR,0,"04-Jul-2019, 12:27 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1d9731a4852321,Outgoing,Call,Missed,"+91 8777901982",,IN,AP,0,"04-Jul-2019, 11:35 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1d9719ba624141,Outgoing,Call,Missed,"+91 8777901982",,IN,AP,0,"04-Jul-2019, 11:34 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1d96aa59a4a151,Outgoing,Call,Missed,"+91 9910433440",,IN,DL,0,"04-Jul-2019, 11:32 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1d959319a00762,Outgoing,Call,Missed,"+91 9899479622","Shailender Arbor Manager",IN,DL,0,"04-Jul-2019, 11:28 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1d956e98851409,Outgoing,Call,Missed,"+91 85239104100",,IN,,0,"04-Jul-2019, 11:27 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1d9554e983a431,Outgoing,Call,Missed,"+91 85239104100",,IN,,0,"04-Jul-2019, 11:27 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1d95451eb6e804,Outgoing,Call,Missed,"+91 85239104100",,IN,,0,"04-Jul-2019, 11:26 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1d95254f455626,Outgoing,Call,Missed,"+91 85239104100",,IN,,0,"04-Jul-2019, 11:26 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1d935024d95715,Outgoing,Call,Connected,"+91 8750759821",,IN,DL,93,"04-Jul-2019, 11:16 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1d9294549d8752,Outgoing,Call,Connected,"+91 9354138412",,IN,DL,33,"04-Jul-2019, 11:14 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1d92183ed50652,Outgoing,Call,Connected,"+91 9625515240",,IN,HP,20,"04-Jul-2019, 11:13 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1d920d3e0b2650,Outgoing,Call,Missed,"+91 9625515240",,IN,HP,0,"04-Jul-2019, 11:12 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1d91db985a2188,Outgoing,Call,Missed,"+91 9625515240",,IN,HP,0,"04-Jul-2019, 11:12 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1d90c0c1224355,Incoming,Call,Missed,"+91 9625515240",,IN,HP,0,"04-Jul-2019, 11:07 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1d8e7b79ad3180,Incoming,Call,Connected,"+91 1244014592",,IN,DL,62,"04-Jul-2019, 10:57 AM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1d89801ca0f313,Outgoing,Call,Missed,"+91 9717269996","Raj Dutta Inquiry",IN,DL,0,"04-Jul-2019, 10:36 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1d897060dd4722,Incoming,Call,Missed,"+91 85239104100",,IN,,0,"04-Jul-2019, 10:27 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1d897051875709,Incoming,Call,Missed,"+91 9354138412",,IN,DL,0,"04-Jul-2019, 10:23 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1d8971bbe8a419,Incoming,Call,Missed,"+91 8750759821",,IN,DL,0,"04-Jul-2019, 8:05 AM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1cce365afdc236,Incoming,Call,Missed,"+91 9873595325",Animesh,IN,DL,0,"03-Jul-2019, 9:17 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1ca98cb7ce9699,Outgoing,Call,Connected,"+91 6392364466",,IN,UE,20,"03-Jul-2019, 6:40 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1ca0a9ab0fb564,Incoming,Call,Connected,"+91 9625470270",,IN,HP,54,"03-Jul-2019, 6:02 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1c9bf4b6075691,Outgoing,Call,Missed,"+91 16309312615",,IN,,0,"03-Jul-2019, 5:43 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1c9b55318c0301,Outgoing,Call,Missed,"+91 9717269996",,IN,DL,0,"03-Jul-2019, 5:40 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1c9b1c79b17479,Outgoing,Call,Missed,"+91 16309312615",,IN,,0,"03-Jul-2019, 5:39 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1c999e94857716,Outgoing,Call,Connected,"+91 9565162000",,IN,UE,23,"03-Jul-2019, 5:32 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1c9846595bb927,Outgoing,Call,Connected,"+91 9663700578","Ramesh Go Jek India",IN,KA,30,"03-Jul-2019, 5:27 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1c952aa1555864,Incoming,Call,Connected,"+91 8046143098",,IN,KA,30,"03-Jul-2019, 5:13 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1c94f2351cb593,Incoming,Call,Connected,"+91 9717269996",,IN,DL,201,"03-Jul-2019, 5:09 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1c939b39460264,Outgoing,Call,Connected,"+91 8081909086","Sharad Perch",IN,UE,137,"03-Jul-2019, 5:05 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1c8ed413563727,Incoming,Call,Connected,"+91 7506135996","Manish Chanel Manager",IN,MU,5,"03-Jul-2019, 4:47 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0
+5d1c8a4767d9a438,Outgoing,Call,Missed,"+91 7506135996","Manish Chanel Manager",IN,MU,0,"03-Jul-2019, 4:27 PM ","Animesh ext. 12 (missed)  |",,Mobile,No,,,0,0,0,0
+5d1c88f8127e8228,Incoming,Call,Connected,"+91 16309312615",,IN,,0,"03-Jul-2019, 4:20 PM ","Animesh ext. 12 (received)  |",,Mobile,No,,,0,0,0,0

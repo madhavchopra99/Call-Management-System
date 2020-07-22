@@ -1,0 +1,190 @@
+UID,Event,Type,Status,From,Name,Country,State,"Duration if call",Time,"User detail","Department(if any)","Log source","Star marked","Text if SMS ","Any note",Billable,Pulse,"Leg B rate","Leg B minutes"
+d1.1563267380.335910,Incoming,Call,Connected,"+91 7887535058",,IN,,304,"16-Jul-2019, 2:26 PM ","DLF Cyber City ext. 11 (received)  |","DLF Cyber City",IVR,No,,,1,6,0,0
+d2.1563265731.261034,Incoming,Call,Voicemail,"+91 9899005902",,IN,DL,58,"16-Jul-2019, 1:58 PM ","DLF Cyber City ext. 11 (missed)  |","DLF Cyber City",IVR,No,,,1,1,0,0
+d2.1563262146.257454,Incoming,Call,Missed,"+91 9936455889",,IN,UE,58,"16-Jul-2019, 12:59 PM ","Animesh ext. 12 (missed)  |","Reservation Team",IVR,No,,,1,1,0,0
+d3.1563262020.457519,Incoming,Call,Connected,"+91 9936455889",,IN,UE,115,"16-Jul-2019, 12:57 PM ","DLF Cyber City ext. 11 (received)  |","DLF Cyber City",IVR,No,,,1,2,0,0
+d1.1563257046.324365,Incoming,Call,Missed,"+91 8104318190",,IN,MU,61,"16-Jul-2019, 11:34 AM ",,,IVR,No,,,1,2,0,0
+d3.1563184339.300445,Incoming,Call,Connected,"+91 9716961187",,IN,DL,118,"15-Jul-2019, 3:22 PM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,2,0,0
+d2.1563181001.223121,Incoming,Call,Voicemail,"+91 9716961187",,IN,DL,82,"15-Jul-2019, 2:26 PM ","Sushant Lok ext. 16 (missed)  |","Sushant Lok",IVR,No,,,1,2,0,0
+d2.1563170809.211956,Incoming,Call,Voicemail,"+91 9711832434",,IN,DL,71,"15-Jul-2019, 11:36 AM ","Animesh ext. 12 (missed)  |","Reservation Team",IVR,No,,,1,2,0,0
+d2.1563170657.211781,Incoming,Call,Connected,"+91 9711832434",,IN,DL,64,"15-Jul-2019, 11:34 AM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,2,0,0
+d1.1563170280.280357,Incoming,Call,Voicemail,"+91 8302674106",,IN,RJ,80,"15-Jul-2019, 11:28 AM ","Animesh ext. 12 (missed)  |","Reservation Team",IVR,No,,,1,2,0,0
+d1.1563159858.270643,Incoming,Call,Connected,"+91 9696119383",,IN,UE,78,"15-Jul-2019, 8:34 AM ","Golf Course ext. 10 (received)  |","golf course road",IVR,No,,,1,2,0,0
+d1.1563159775.270603,Incoming,Call,Connected,"+91 9696119383",,IN,UE,77,"15-Jul-2019, 8:32 AM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,2,0,0
+d2.1563159469.202222,Incoming,Call,Missed,"+91 9336955714",,IN,UE,29,"15-Jul-2019, 8:27 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 15-Jul-2019, 11:49 AM ]",1,1,0,0
+d1.1563158929.270370,Incoming,Call,Missed,"+91 9336955714",,IN,UE,39,"15-Jul-2019, 8:18 AM ","Sushant Lok ext. 16 (missed)  |","Sushant Lok",IVR,No,,"Spam   [Noted ext 12], [Date 15-Jul-2019, 11:50 AM ]",1,1,0,0
+d2.1563158892.202062,Incoming,Call,Missed,"+91 9336955714",,IN,UE,28,"15-Jul-2019, 8:18 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 15-Jul-2019, 11:50 AM ]",1,1,0,0
+d1.1563158767.270324,Incoming,Call,Missed,"+91 9336955714",,IN,UE,25,"15-Jul-2019, 8:16 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 15-Jul-2019, 11:50 AM ]",1,1,0,0
+d3.1563158708.173964,Incoming,Call,Missed,"+91 9336955714",,IN,UE,39,"15-Jul-2019, 8:15 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 15-Jul-2019, 11:50 AM ]",1,1,0,0
+d4.1563158626.162751,Incoming,Call,Missed,"+91 9336955714",,IN,UE,38,"15-Jul-2019, 8:13 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 15-Jul-2019, 11:50 AM ]",1,1,0,0
+d2.1563158508.201936,Incoming,Call,Missed,"+91 9336955714",,IN,UE,39,"15-Jul-2019, 8:11 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 15-Jul-2019, 11:52 AM ]",1,1,0,0
+d2.1563089131.186528,Incoming,Call,Connected,"+91 8104318190",,IN,MU,58,"14-Jul-2019, 12:55 PM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,1,0,0
+d3.1563080123.60562,Incoming,Call,Connected,"+91 6350361889",,IN,,80,"14-Jul-2019, 10:25 AM ","DLF Cyber City ext. 11 (received)  |","DLF Cyber City",IVR,No,,,1,2,0,0
+d1.1563037216.241158,Incoming,Call,Missed,"+91 9902915977",,IN,KA,23,"13-Jul-2019, 10:30 PM ",,,IVR,No,,"NR   [Noted ext 12], [Date 15-Jul-2019, 1:51 PM ]",1,1,0,0
+d3.1563029455.29342,Incoming,Call,Connected,"+91 8789168346",,IN,AP,194,"13-Jul-2019, 8:20 PM ","DLF Cyber City ext. 11 (received)  |","DLF Cyber City",IVR,No,,,1,4,0,0
+d4.1563029402.139734,Incoming,Call,Connected,"+91 9582820670",,IN,DL,148,"13-Jul-2019, 8:20 PM ","Golf Course ext. 10 (received)  |","golf course road",IVR,No,,,1,3,0,0
+d2.1563020566.169927,Incoming,Call,Missed,"+91 9769718787",,IN,MU,56,"13-Jul-2019, 5:52 PM ","Animesh ext. 12 (missed)  |","Reservation Team",IVR,No,,"NA   [Noted ext 12], [Date 15-Jul-2019, 4:33 PM ]",1,1,0,0
+d3.1563020187.2852,Incoming,Call,Connected,"+91 9687622783",,IN,GJ,69,"13-Jul-2019, 5:46 PM ","DLF Cyber City ext. 11 (received)  |","DLF Cyber City",IVR,No,,,1,2,0,0
+d1.1563014444.228717,Incoming,Call,Missed,"+91 9599320557",,IN,DL,79,"13-Jul-2019, 4:10 PM ","DLF Cyber City ext. 11 (missed)  |","DLF Cyber City",IVR,No,,,1,2,0,0
+d1.1563012283.226968,Incoming,Call,Missed,"+91 9212400240",,IN,DL,6,"13-Jul-2019, 3:34 PM ",,,IVR,No,,"CL   [Noted ext 12], [Date 15-Jul-2019, 4:34 PM ]",1,1,0,0
+d3.1563001016.1512652,Incoming,Call,Missed,"+91 8860037385",,IN,DL,39,"13-Jul-2019, 12:26 PM ",,,IVR,No,,,1,1,0,0
+d2.1562985743.142818,Incoming,Call,Missed,"+91 9305376711",,IN,UE,23,"13-Jul-2019, 8:12 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 15-Jul-2019, 7:06 PM ]",1,1,0,0
+d2.1562982301.142272,Incoming,Call,Missed,"+91 9326633196",,IN,MU,5,"13-Jul-2019, 7:15 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 15-Jul-2019, 1:32 PM ]",0,0,0,0
+d4.1562982285.113517,Incoming,Call,Missed,"+91 9326633196",,IN,MU,5,"13-Jul-2019, 7:14 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 15-Jul-2019, 1:32 PM ]",0,0,0,0
+d2.1562982272.142269,Incoming,Call,Missed,"+91 9326633196",,IN,MU,5,"13-Jul-2019, 7:14 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 15-Jul-2019, 1:32 PM ]",0,0,0,0
+d1.1562981908.202720,Incoming,Call,Missed,"+91 6394437990",,IN,UE,5,"13-Jul-2019, 7:08 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 15-Jul-2019, 11:53 AM ]",0,0,0,0
+d2.1562981039.142149,Incoming,Call,Missed,"+91 9839317178",,IN,UE,36,"13-Jul-2019, 6:54 AM ",,,IVR,No,,"spam   [Noted ext 12], [Date 15-Jul-2019, 7:04 PM ]",1,1,0,0
+d1.1562960008.202219,Incoming,Call,Connected,"+91 9599320557",,IN,DL,396,"13-Jul-2019, 1:03 AM ","DLF Cyber City ext. 11 (received)  |","DLF Cyber City",IVR,No,,,1,7,0,0
+d2.1562924193.126663,Incoming,Call,Missed,"+91 8750970490",,IN,DL,39,"12-Jul-2019, 3:06 PM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 15-Jul-2019, 7:07 PM ]",1,1,0,0
+d4.1562907014.87773,Incoming,Call,Connected,"+91 9818491062",,IN,DL,86,"12-Jul-2019, 10:20 AM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,2,0,0
+d3.1562899572.1270034,Incoming,Call,Missed,"+91 7355106072",,IN,PB,27,"12-Jul-2019, 8:16 AM ",,,IVR,No,,"spam   [Noted ext 12], [Date 12-Jul-2019, 3:22 PM ]",1,1,0,0
+d1.1562899370.163317,Incoming,Call,Missed,"+91 9326633196",,IN,MU,20,"12-Jul-2019, 8:12 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 12-Jul-2019, 3:24 PM ]",1,1,0,0
+d4.1562899316.84902,Incoming,Call,Missed,"+91 9326633196",,IN,MU,39,"12-Jul-2019, 8:11 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 12-Jul-2019, 3:24 PM ]",1,1,0,0
+d4.1562897403.84683,Incoming,Call,Missed,"+91 9739462166",,IN,KA,25,"12-Jul-2019, 7:40 AM ",,,IVR,No,,"spam   [Noted ext 12], [Date 12-Jul-2019, 3:25 PM ]",1,1,0,0
+d4.1562895794.84501,Incoming,Call,Missed,"+91 6394437990",,IN,UE,5,"12-Jul-2019, 7:13 AM ",,,IVR,No,,"spam   [Noted ext 12], [Date 12-Jul-2019, 3:26 PM ]",0,0,0,0
+d2.1562840896.93231,Incoming,Call,Connected,"+91 1776650205",,IN,HP,82,"11-Jul-2019, 3:58 PM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,2,0,0
+d3.1562831911.1165065,Incoming,Call,Connected,"+91 9810660771",,IN,DL,94,"11-Jul-2019, 1:28 PM ","Sushant Lok ext. 16 (received)  |","Sushant Lok",IVR,No,,,1,2,0,0
+d1.1562816588.125434,Incoming,Call,Missed,"+91 8127392141",,IN,UE,6,"11-Jul-2019, 9:13 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 11-Jul-2019, 1:33 PM ]",1,1,0,0
+d4.1562816552.57501,Incoming,Call,Missed,"+91 8127392141",,IN,UE,18,"11-Jul-2019, 9:12 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 11-Jul-2019, 1:33 PM ]",1,1,0,0
+d1.1562813818.124525,Incoming,Call,Missed,"+91 6394437990",,IN,UE,39,"11-Jul-2019, 8:26 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 11-Jul-2019, 1:13 PM ]",1,1,0,0
+d3.1562813438.1090656,Incoming,Call,Missed,"+91 8174935748",,IN,KA,21,"11-Jul-2019, 8:20 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 11-Jul-2019, 1:33 PM ]",1,1,0,0
+d2.1562813407.71443,Incoming,Call,Missed,"+91 8174935748",,IN,KA,27,"11-Jul-2019, 8:20 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 11-Jul-2019, 1:33 PM ]",1,1,0,0
+d3.1562812960.1090165,Incoming,Call,Missed,"+91 7310283981",,IN,UW,8,"11-Jul-2019, 8:12 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 11-Jul-2019, 1:14 PM ]",1,1,0,0
+d1.1562812828.124292,Incoming,Call,Missed,"+91 6394437990",,IN,UE,9,"11-Jul-2019, 8:10 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 11-Jul-2019, 1:13 PM ]",1,1,0,0
+d3.1562812776.1090002,Incoming,Call,Missed,"+91 6394437990",,IN,UE,39,"11-Jul-2019, 8:09 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 11-Jul-2019, 1:13 PM ]",1,1,0,0
+d2.1562812735.71288,Incoming,Call,Missed,"+91 6394437990",,IN,UE,38,"11-Jul-2019, 8:08 AM ",,,IVR,No,,"Spam   [Noted ext 12], [Date 11-Jul-2019, 1:13 PM ]",1,1,0,0
+d1.1562812700.124263,Incoming,Call,Missed,"+91 6394437990",,IN,UE,10,"11-Jul-2019, 8:08 AM ",,,IVR,No,,"NA   [Noted ext 12], [Date 11-Jul-2019, 12:46 PM ]",1,1,0,0
+d4.1562811446.56517,Incoming,Call,Missed,"+91 8423935671",,IN,UE,30,"11-Jul-2019, 7:47 AM ",,,IVR,No,,"NA   [Noted ext 12], [Date 11-Jul-2019, 12:46 PM ]",1,1,0,0
+d4.1562769032.53523,Incoming,Call,Connected,"+91 9818313810",,IN,DL,101,"10-Jul-2019, 8:00 PM ","Golf Course ext. 10 (received)  |","golf course road",IVR,No,,,1,2,0,0
+d2.1562724120.36380,Incoming,Call,Missed,"+91 8175047926",,IN,KA,11,"10-Jul-2019, 7:32 AM ",,,IVR,No,,"NR   [Noted ext 12], [Date 10-Jul-2019, 1:32 PM ]",1,1,0,0
+d2.1562724081.36372,Incoming,Call,Missed,"+91 8175047926",,IN,KA,28,"10-Jul-2019, 7:31 AM ",,,IVR,No,,"NR   [Noted ext 12], [Date 10-Jul-2019, 1:32 PM ]",1,1,0,0
+d2.1562683506.33663,Incoming,Call,Connected,"+91 9999782547",,IN,DL,88,"09-Jul-2019, 8:15 PM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,2,0,0
+d3.1562671175.858055,Incoming,Call,Connected,"+91 9691577416",,IN,MP,266,"09-Jul-2019, 4:49 PM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,5,0,0
+d1.1562655237.58204,Incoming,Call,Connected,"+91 4066192281",,IN,AP,180,"09-Jul-2019, 12:23 PM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,3,0,0
+d1.1562643932.46445,Incoming,Call,Missed,"+91 9129832950",,IN,UE,56,"09-Jul-2019, 9:15 AM ","Animesh ext. 12 (missed)  |","Reservation Team",IVR,No,,"wrong number   [Noted ext 12], [Date 09-Jul-2019, 4:40 PM ]",1,1,0,0
+d1.1562643885.46426,Incoming,Call,Missed,"+91 9129832950",,IN,UE,39,"09-Jul-2019, 9:14 AM ",,,IVR,No,,"wrong number   [Noted ext 12], [Date 09-Jul-2019, 4:40 PM ]",1,1,0,0
+d3.1562640711.724511,Incoming,Call,Missed,"+61 411696780",,AU,,24,"09-Jul-2019, 8:21 AM ",,,IVR,No,,"By Kunal Sir   [Noted ext 12], [Date 09-Jul-2019, 3:55 PM ]",1,1,0,0
+d4.1562639427.79700,Incoming,Call,Missed,"+91 7355744259",,IN,PB,29,"09-Jul-2019, 8:00 AM ",,,IVR,No,,"wrong number   [Noted ext 12], [Date 09-Jul-2019, 4:40 PM ]",1,1,0,0
+d3.1562639420.722748,Incoming,Call,Missed,"+91 7355744259",,IN,PB,6,"09-Jul-2019, 8:00 AM ",,,IVR,No,,"wrong number D   [Noted ext 12], [Date 09-Jul-2019, 4:41 PM ]",1,1,0,0
+d4.1562631926.79077,Incoming,Call,Connected,"+91 9125641376",,IN,UE,120,"09-Jul-2019, 5:55 AM ","Sushant Lok ext. 16 (received)  |","Sushant Lok",IVR,No,,,1,2,0,0
+d4.1562631865.79076,Incoming,Call,Missed,"+91 9125641376",,IN,UE,39,"09-Jul-2019, 5:54 AM ",,,IVR,No,,"wrong number   [Noted ext 12], [Date 09-Jul-2019, 4:40 PM ]",1,1,0,0
+d1.1562607363.43489,Incoming,Call,Missed,"+91 9100304407",,IN,AP,24,"08-Jul-2019, 11:06 PM ",,,IVR,No,,"Guest staying with us   [Noted ext 12], [Date 09-Jul-2019, 4:40 PM ]",0,0,0,0
+d2.1562590621.2343569,Incoming,Call,Connected,"+91 9351511683",,IN,RJ,188,"08-Jul-2019, 6:27 PM ","Golf Course ext. 10 (received)  |","golf course road",IVR,No,,,1,4,0,0
+d3.1562589478.683515,Incoming,Call,Connected,"+91 9899978141",,IN,DL,85,"08-Jul-2019, 6:07 PM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,2,0,0
+d1.1562589421.36085,Incoming,Call,Connected,"+91 9899978141",,IN,DL,47,"08-Jul-2019, 6:07 PM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,1,0,0
+d2.1562588890.2342189,Incoming,Call,Connected,"+91 9899978141",,IN,DL,209,"08-Jul-2019, 5:58 PM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,4,0,0
+d3.1562565453.564290,Incoming,Call,Missed,"+91 9873595325",,IN,DL,7,"08-Jul-2019, 11:27 AM ",,,IVR,No,,"TEST   [Noted ext 12], [Date 08-Jul-2019, 11:45 AM ]",1,1,0,0
+d2.1562564604.2318277,Incoming,Call,Connected,"+91 8302674106",,IN,RJ,49,"08-Jul-2019, 11:13 AM ","DLF Cyber City ext. 11 (received)  |","DLF Cyber City",IVR,No,,,1,1,0,0
+d1.1562558481.3699,Incoming,Call,Missed,"+91 7985746488",,IN,UE,25,"08-Jul-2019, 9:31 AM ",,,IVR,No,,"Note related to us   [Noted ext 12], [Date 08-Jul-2019, 4:08 PM ]",1,1,0,0
+d3.1562557327.525245,Incoming,Call,Missed,"+91 8957434687",,IN,UE,61,"08-Jul-2019, 9:12 AM ","Sushant Lok ext. 16 (missed)  |","Sushant Lok",IVR,No,,"Not related for us   [Noted ext 12], [Date 08-Jul-2019, 4:27 PM ]",1,2,0,0
+d2.1562557232.2311538,Incoming,Call,Connected,"+91 8957434687",,IN,UE,68,"08-Jul-2019, 9:10 AM ","Golf Course ext. 10 (received)  |","golf course road",IVR,No,,,1,2,0,0
+d3.1562557213.524871,Incoming,Call,Missed,"+91 9565427678",,IN,UE,29,"08-Jul-2019, 9:10 AM ",,,IVR,No,,"wrong number   [Noted ext 12], [Date 08-Jul-2019, 6:49 PM ]",1,1,0,0
+d3.1562557116.524624,Incoming,Call,Connected,"+91 8957434687",,IN,UE,111,"08-Jul-2019, 9:08 AM ","Golf Course ext. 10 (received)  |","golf course road",IVR,No,,,1,2,0,0
+d2.1562555666.2311000,Incoming,Call,Missed,"+91 8114076164",,IN,,26,"08-Jul-2019, 8:44 AM ",,,IVR,No,,"call not going through   [Noted ext 12], [Date 08-Jul-2019, 5:45 PM ]",1,1,0,0
+d4.1562555621.48645,Incoming,Call,Missed,"+91 8114076164",,IN,,38,"08-Jul-2019, 8:43 AM ",,,IVR,No,,"call not going through   [Noted ext 12], [Date 08-Jul-2019, 5:45 PM ]",1,1,0,0
+d3.1562551243.517790,Incoming,Call,Missed,"+91 8932865634",,IN,AP,39,"08-Jul-2019, 7:30 AM ",,,IVR,No,,"wrong number   [Noted ext 12], [Date 08-Jul-2019, 6:37 PM ]",1,1,0,0
+d2.1562551194.2310072,Incoming,Call,Missed,"+91 7380620410",,IN,PB,39,"08-Jul-2019, 7:29 AM ",,,IVR,No,,"NOT RELATED TO US   [Noted ext 12], [Date 08-Jul-2019, 11:50 AM ]",1,1,0,0
+d1.1562548102.1042,Incoming,Call,Missed,"+91 8423935671",,IN,UE,30,"08-Jul-2019, 6:38 AM ",,,IVR,No,,"not received call   [Noted ext 12], [Date 08-Jul-2019, 6:49 PM ]",1,1,0,0
+d1.1562488812.965417,Incoming,Call,Connected,"+91 8668175657",,IN,AP,253,"07-Jul-2019, 2:10 PM ","Sushant Lok ext. 16 (received)  |","Sushant Lok",IVR,No,,,1,5,0,0
+d1.1562488749.965374,Incoming,Call,Missed,"+91 8668175657",,IN,AP,57,"07-Jul-2019, 2:09 PM ","Animesh ext. 12 (missed)  |","Reservation Team",IVR,No,,"interested ,he will let us know   [Noted ext 12], [Date 08-Jul-2019, 12:01 PM ]",1,1,0,0
+d4.1562483817.35240,Incoming,Call,Missed,"+91 9910247460",,IN,DL,55,"07-Jul-2019, 12:46 PM ","DLF Cyber City ext. 11 (missed)  |","DLF Cyber City",IVR,No,,"Call not received,send whatsapp   [Noted ext 12], [Date 08-Jul-2019, 6:09 PM ]",1,1,0,0
+d3.1562483772.439283,Incoming,Call,Missed,"+91 9910247460",,IN,DL,39,"07-Jul-2019, 12:46 PM ","DLF Cyber City ext. 11 (missed)  |","DLF Cyber City",IVR,No,,"Call not received,send whatsapp   [Noted ext 12], [Date 08-Jul-2019, 6:09 PM ]",1,1,0,0
+d1.1562466826.952764,Incoming,Call,Missed,"+91 6392364466",,IN,UE,39,"07-Jul-2019, 8:03 AM ",,,IVR,No,,"Switch off   [Noted ext 12], [Date 08-Jul-2019, 12:05 PM ]",1,1,0,0
+d1.1562436463.951663,Incoming,Call,Connected,"+91 9810203541",,IN,DL,151,"06-Jul-2019, 11:37 PM ","Golf Course ext. 10 (received)  |","golf course road",IVR,No,,,1,3,0,0
+d1.1562433221.951484,Incoming,Call,Connected,"+91 9999355959",,IN,DL,107,"06-Jul-2019, 10:43 PM ","DLF Cyber City ext. 11 (received)  |","DLF Cyber City",IVR,No,,,1,2,0,0
+d1.1562433001.951455,Incoming,Call,Connected,"+91 9999355959",,IN,DL,119,"06-Jul-2019, 10:40 PM ","DLF Cyber City ext. 11 (received)  |","DLF Cyber City",IVR,No,,,1,2,0,0
+d1.1562406022.937035,Incoming,Call,Connected,"+91 9819326607",,IN,MU,201,"06-Jul-2019, 3:10 PM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,4,0,0
+d4.1562405689.16329,Incoming,Call,Connected,"+91 9819326607",,IN,MU,132,"06-Jul-2019, 3:04 PM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,3,0,0
+d1.1562405539.936641,Incoming,Call,Missed,"+91 9819326607",,IN,MU,55,"06-Jul-2019, 3:02 PM ","DLF Cyber City ext. 11 (missed)  |","DLF Cyber City",IVR,No,,"let us know   [Noted ext 12], [Date 08-Jul-2019, 5:13 PM ]",1,1,0,0
+d1.1562399124.930935,Incoming,Call,Missed,"+91 7619958579",,IN,,39,"06-Jul-2019, 1:15 PM ",,,IVR,No,,"Switch off   [Noted ext 12], [Date 08-Jul-2019, 11:53 AM ]",1,1,0,0
+d2.1562395494.2262985,Incoming,Call,Connected,"+91 9509420731",,IN,RJ,130,"06-Jul-2019, 12:14 PM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,3,0,0
+d2.1562335997.2248600,Incoming,Call,Connected,"+91 9650120152",,IN,DL,127,"05-Jul-2019, 7:43 PM ","DLF Cyber City ext. 11 (received)  |","DLF Cyber City",IVR,No,,,1,3,0,0
+d3.1562331031.188088,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,9,"05-Jul-2019, 6:20 PM ",,,IVR,No,,"done   [Noted ext 12], [Date 05-Jul-2019, 6:22 PM ]",1,1,0,0
+d1.1562324122.902513,Incoming,Call,Missed,"+91 8368689659",,IN,KA,7,"05-Jul-2019, 4:25 PM ",,,IVR,No,,"test   [Noted ext 12], [Date 05-Jul-2019, 4:31 PM ]  ||Test call from MyOperator   [Noted ext 12], [Date 05-Jul-2019, 4:31 PM ]",1,1,0,0
+d2.1562323113.2240259,Incoming,Call,Connected,"+91 9643879841",,IN,DL,76,"05-Jul-2019, 4:08 PM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,2,0,0
+d4.1562321408.1819837,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,10,"05-Jul-2019, 3:40 PM ",,,IVR,No,,,1,1,0,0
+d3.1562320156.146464,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,15,"05-Jul-2019, 3:19 PM ",,,IVR,No,,,1,1,0,0
+d2.1562320121.2237898,Incoming,Call,Connected,"+91 9999648266",,IN,DL,284,"05-Jul-2019, 3:18 PM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,5,0,0
+d1.1562319480.898412,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,24,"05-Jul-2019, 3:08 PM ",,,IVR,No,,,1,1,0,0
+d2.1562318485.2236650,Incoming,Call,Connected,"+91 1244363355",,IN,DL,98,"05-Jul-2019, 2:51 PM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,2,0,0
+d3.1562303632.68207,Incoming,Call,Missed,"+91 9810367061",,IN,DL,40,"05-Jul-2019, 10:43 AM ",,,IVR,No,,,1,1,0,0
+d1.1562285495.876094,Incoming,Call,Missed,"+61 411696780",,AU,,35,"05-Jul-2019, 5:41 AM ","Golf Course ext. 10 (missed)  |","golf course road",IVR,No,,,1,1,0,0
+d4.1562262346.1801817,Incoming,Call,Connected,"+91 8826212511",,IN,DL,91,"04-Jul-2019, 11:15 PM ","DLF Cyber City ext. 11 (received)  |","DLF Cyber City",IVR,No,,,1,2,0,0
+d2.1562257189.2216801,Incoming,Call,Connected,"+91 8929345839",,IN,DL,264,"04-Jul-2019, 9:49 PM ","Golf Course ext. 10 (received)  |","golf course road",IVR,No,,,1,5,0,0
+d1.1562257036.875132,Incoming,Call,Connected,"+91 8929345839",,IN,DL,120,"04-Jul-2019, 9:47 PM ","Golf Course ext. 10 (received)  |","golf course road",IVR,No,,,1,2,0,0
+d4.1562256165.1801337,Incoming,Call,Connected,"+91 7351010402",,IN,UW,139,"04-Jul-2019, 9:32 PM ","Sushant Lok ext. 16 (received)  |","Sushant Lok",IVR,No,,,1,3,0,0
+d2.1562252857.2215927,Incoming,Call,Connected,"+91 9873595325",,IN,DL,63,"04-Jul-2019, 8:37 PM ","Golf Course ext. 10 (received)  |","golf course road",IVR,No,,,1,2,0,0
+d3.1562252748.29880,Incoming,Call,Missed,"+91 9873595325",,IN,DL,39,"04-Jul-2019, 8:35 PM ",,,IVR,No,,,1,1,0,0
+d3.1562239137.11270849,Incoming,Call,Connected,"+91 9654272007",,IN,DL,84,"04-Jul-2019, 4:48 PM ","Animesh ext. 12 (received)  |","Reservation Team",IVR,No,,,1,2,0,0
+d4.1562227992.1787466,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,35,"04-Jul-2019, 1:43 PM ","Animesh ext. 12 (missed)  |","Reservation Team",IVR,No,,,1,1,0,0
+d1.1562221303.848330,Incoming,Call,Missed,"+91 9654272007",,IN,DL,58,"04-Jul-2019, 11:51 AM ","Animesh ext. 12 (missed)  |","Reservation Team",IVR,No,,,1,1,0,0
+d4.1562168785.1773123,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,49,"03-Jul-2019, 9:16 PM ",,,IVR,No,,,1,1,0,0
+d3.1562168375.11133780,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,17,"03-Jul-2019, 9:09 PM ","Golf Course ext. 10 (missed)  |","golf course road",IVR,No,,,1,1,0,0
+d1.1562168268.835232,Incoming,Call,Connected,"+91 8491945727",,IN,AP,64,"03-Jul-2019, 9:07 PM ","Golf Course ext. 10 (received)  |","golf course road",IVR,No,,,1,2,0,0
+d3.1562168151.11133379,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,39,"03-Jul-2019, 9:05 PM ",,,IVR,No,,,1,1,0,0
+d2.1562168112.2181729,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,35,"03-Jul-2019, 9:05 PM ",,,IVR,No,,,1,1,0,0
+d3.1562165133.11127880,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,46,"03-Jul-2019, 8:15 PM ","Animesh ext. 12 (missed)  |","Reservation Team",IVR,No,,,1,1,0,0
+d2.1562165059.2180679,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,58,"03-Jul-2019, 8:14 PM ","Sushant Lok ext. 16 (missed)  |","Sushant Lok",IVR,No,,,1,1,0,0
+d1.1562159321.830713,Incoming,Call,Missed,"+91 6392364466",,IN,UE,32,"03-Jul-2019, 6:38 PM ",,,IVR,No,,,1,1,0,0
+d2.1562148514.2170044,Incoming,Call,Missed,"+91 8586848544",,IN,DL,49,"03-Jul-2019, 3:38 PM ","Animesh ext. 12 (missed)  |","Reservation Team",IVR,No,,,1,1,0,0
+d3.1562148446.11068412,Incoming,Call,Connected,"+91 8586848544",,IN,DL,52,"03-Jul-2019, 3:37 PM ","DLF Cyber City ext. 11 (received)  |","DLF Cyber City",IVR,No,,,1,1,0,0
+d4.1562145686.1761555,Incoming,Call,Connected,"+91 8302674106",,IN,RJ,68,"03-Jul-2019, 2:51 PM ","Sushant Lok ext. 16 (received)  |","Sushant Lok",IVR,No,,,1,2,0,0
+d2.1562145639.2167778,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,39,"03-Jul-2019, 2:50 PM ",,,IVR,No,,,1,1,0,0
+d1.1562144384.818057,Incoming,Call,Missed,"+91 7290097281",,IN,DL,25,"03-Jul-2019, 2:29 PM ",,"Reservation Team",IVR,No,,,1,1,0,0
+d1.1562135863.809180,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,41,"03-Jul-2019, 12:07 PM ","Animesh ext. 33 (missed)  |","Reservation Team",IVR,No,,,1,1,0,0
+d1.1562135438.808665,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,22,"03-Jul-2019, 12:00 PM ",,,IVR,No,,,1,1,0,0
+d3.1562135161.11005397,Incoming,Call,Connected,"+91 8302674106",,IN,RJ,40,"03-Jul-2019, 11:56 AM ","DLF Cyber City ext. 11 (received)  |","DLF Cyber City",IVR,No,,,1,1,0,0
+d3.1562135100.11005031,Incoming,Call,Connected,"+91 8302674106",,IN,RJ,46,"03-Jul-2019, 11:55 AM ","Animesh ext. 33 (received)  |","Reservation Team",IVR,No,,,1,1,0,0
+d1.1562130128.801998,Incoming,Call,Missed,"+91 2267549881",,IN,MU,43,"03-Jul-2019, 10:32 AM ",,,IVR,No,,,1,1,0,0
+d1.1562093950.795561,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,21,"03-Jul-2019, 12:29 AM ","DLF Cyber City ext. 11 (missed)  |","DLF Cyber City",IVR,No,,,1,1,0,0
+d2.1562093920.2146854,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,22,"03-Jul-2019, 12:28 AM ","Sushant Lok ext. 16 (missed)  |","Sushant Lok",IVR,No,,,1,1,0,0
+d2.1562093893.2146853,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,21,"03-Jul-2019, 12:28 AM ",,"golf course road",IVR,No,,,1,1,0,0
+d1.1562093869.795560,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,17,"03-Jul-2019, 12:27 AM ",,"golf course road",IVR,No,,,1,1,0,0
+d2.1562093755.2146852,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,37,"03-Jul-2019, 12:25 AM ",,"golf course road",IVR,No,,,1,1,0,0
+d3.1562073882.10928780,Incoming,Call,Missed,"+91 9654272007",,IN,DL,20,"02-Jul-2019, 6:54 PM ","Animesh ext. 33 (missed)  |","Reservation Team",IVR,No,,,1,1,0,0
+d1.1562073847.790659,Incoming,Call,Missed,"+91 9654272007",,IN,DL,7,"02-Jul-2019, 6:54 PM ",,,IVR,No,,,1,1,0,0
+d1.1562073694.790571,Incoming,Call,Connected,"+91 9654272007",,IN,DL,51,"02-Jul-2019, 6:51 PM ","DLF Cyber City ext. 11 (received)  |","DLF Cyber City",IVR,No,,,1,1,0,0
+d1.1562073508.790451,Incoming,Call,Missed,"+91 9654272007",,IN,DL,35,"02-Jul-2019, 6:48 PM ","Animesh ext. 33 (missed)  |","Reservation Team",IVR,No,,,1,1,0,0
+d2.1562073433.2142678,Incoming,Call,Connected,"+91 8302674106",,IN,RJ,40,"02-Jul-2019, 6:47 PM ","DLF Cyber City ext. 11 (received)  |","DLF Cyber City",IVR,No,,,1,1,0,0
+d3.1562073388.10927409,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,38,"02-Jul-2019, 6:46 PM ",,,IVR,No,,,1,1,0,0
+d2.1562073357.2142648,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,27,"02-Jul-2019, 6:45 PM ",,,IVR,No,,,1,1,0,0
+d2.1562064580.2137002,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,35,"02-Jul-2019, 4:19 PM ",,,IVR,No,,,1,1,0,0
+d4.1562064470.1736073,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,33,"02-Jul-2019, 4:17 PM ","Animesh ext. 33 (missed)  |","Reservation Team",IVR,No,,,1,1,0,0
+d1.1562063961.783405,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,28,"02-Jul-2019, 4:09 PM ","Animesh ext. 33 (missed)  |","Reservation Team",IVR,No,,,1,1,0,0
+d2.1562063774.2136353,Incoming,Call,Missed,"+91 7290097281",,IN,DL,28,"02-Jul-2019, 4:06 PM ","Animesh ext. 33 (missed)  |","Reservation Team",IVR,No,,,1,1,0,0
+d3.1562063373.10893368,Incoming,Call,Connected,"+91 8302674106",,IN,RJ,43,"02-Jul-2019, 3:59 PM ","Animesh ext. 33 (received)  |","Reservation Team",IVR,No,,,1,1,0,0
+d4.1562063205.1735306,Incoming,Call,Connected,"+91 8302674106",,IN,RJ,61,"02-Jul-2019, 3:56 PM ","DLF Cyber City ext. 11 (received)  |","DLF Cyber City",IVR,No,,,1,2,0,0
+d2.1562063074.2135857,Incoming,Call,Missed,"+91 9654272007",,IN,DL,24,"02-Jul-2019, 3:54 PM ","Animesh ext. 33 (missed)  |","Reservation Team",IVR,No,,,1,1,0,0
+d3.1562063017.10891997,Incoming,Call,Missed,"+91 9654272007",,IN,DL,41,"02-Jul-2019, 3:53 PM ",,"golf course road",IVR,No,,,1,1,0,0
+d2.1562058066.2131999,Incoming,Call,Missed,"+61 411696780",,AU,,38,"02-Jul-2019, 2:31 PM ","DLF Cyber City ext. 11 (missed)  |","DLF Cyber City",IVR,No,,,1,1,0,0
+d2.1562058014.2131953,Incoming,Call,Missed,"+61 411696780",,AU,,29,"02-Jul-2019, 2:30 PM ","Animesh ext. 33 (missed)  |","Reservation Team",IVR,No,,,1,1,0,0
+d2.1562055573.2129980,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,61,"02-Jul-2019, 1:49 PM ",,,IVR,No,,,1,2,0,0
+d3.1561959121.10625318,Incoming,Call,Missed,"+61 411696780",,AU,,9,"01-Jul-2019, 11:02 AM ",,,IVR,No,,,1,1,0,0
+d2.1561940881.2077671,Incoming,Call,Missed,"+91 9651749690",,IN,UE,27,"01-Jul-2019, 5:58 AM ",,,IVR,No,,,1,1,0,0
+d4.1561810995.1663477,Incoming,Call,Missed,"+91 9873595325",,IN,DL,41,"29-Jun-2019, 5:53 PM ",,,IVR,No,,,1,1,0,0
+d3.1561810801.10439200,Incoming,Call,Missed,"+91 9873595325",,IN,DL,26,"29-Jun-2019, 5:50 PM ",,,IVR,No,,,1,1,0,0
+d4.1561789428.1649821,Incoming,Call,Missed,"+61 411696780",,AU,,11,"29-Jun-2019, 11:53 AM ",,,IVR,No,,,1,1,0,0
+d1.1561789145.666558,Incoming,Call,Missed,"+61 411696780",,AU,,29,"29-Jun-2019, 11:49 AM ",,,IVR,No,,,1,1,0,0
+d2.1561730995.2019266,Incoming,Call,Missed,"+91 8178552216",,IN,DL,28,"28-Jun-2019, 7:39 PM ",,,IVR,No,,,1,1,0,0
+d1.1561730962.652961,Incoming,Call,Missed,"+91 8178552216",,IN,DL,17,"28-Jun-2019, 7:39 PM ",,,IVR,No,,,1,1,0,0
+d2.1561730862.2019220,Incoming,Call,Missed,"+91 8178552216",,IN,DL,42,"28-Jun-2019, 7:37 PM ",,,IVR,No,,,1,1,0,0
+d3.1561722493.10261842,Incoming,Call,Missed,"+91 9654272007",,IN,DL,41,"28-Jun-2019, 5:18 PM ",,,IVR,No,,,1,1,0,0
+d4.1561719965.1634067,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,25,"28-Jun-2019, 4:36 PM ",,,IVR,No,,,1,1,0,0
+d1.1561719746.645051,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,38,"28-Jun-2019, 4:32 PM ","User 2 ext. 16 (missed)  |","Sushant Lok",IVR,No,,,1,1,0,0
+d1.1561718162.643720,Incoming,Call,Connected,"+91 8302674106",,IN,RJ,58,"28-Jun-2019, 4:06 PM ","Animesh ext. 33 (received)  |","Reservation Team",IVR,No,,,1,1,0,0
+d2.1561717798.2010480,Incoming,Call,Missed,"+91 8882256655",,IN,DL,10,"28-Jun-2019, 3:59 PM ",,Extension,IVR,No,,,1,1,0,0
+d2.1561717777.2010469,Incoming,Call,Missed,"+91 8882256655",,IN,DL,9,"28-Jun-2019, 3:59 PM ",,Extension,IVR,No,,,1,1,0,0
+d2.1561717739.2010454,Incoming,Call,Missed,"+91 8882256655",,IN,DL,9,"28-Jun-2019, 3:59 PM ",,Extension,IVR,No,,,1,1,0,0
+d3.1561717648.10241192,Incoming,Call,Missed,"+91 8882256655",,IN,DL,14,"28-Jun-2019, 3:57 PM ",,,IVR,No,,,1,1,0,0
+d1.1561716905.642671,Incoming,Call,Missed,"+91 9810950802",,IN,DL,40,"28-Jun-2019, 3:45 PM ",,,IVR,No,,,1,1,0,0
+d1.1561716761.642522,Incoming,Call,Connected,"+91 9810950802",,IN,DL,68,"28-Jun-2019, 3:42 PM ","User 1 ext. 11 (received)  |","DLF Cyber City",IVR,No,,,1,2,0,0
+d2.1561716475.2009539,Incoming,Call,Missed,"+91 8882256655",,IN,DL,20,"28-Jun-2019, 3:37 PM ",,,IVR,No,,,1,1,0,0
+d2.1561609701.1958053,Incoming,Call,Connected,"+91 8178552216",,IN,DL,60,"27-Jun-2019, 9:58 AM ","Vivek Gupta ext. 10 (received)  |","Corporate Connect",IVR,No,,,1,1,0,0
+d1.1561551173.572305,Incoming,Call,Missed,"+91 8302674106",,IN,RJ,25,"26-Jun-2019, 5:42 PM ",,,IVR,No,,,1,1,0,0
+d3.1561532323.9839702,Incoming,Call,Missed,"+91 8826808384",,IN,DL,9,"26-Jun-2019, 12:28 PM ",,,IVR,No,,,1,1,0,0
+s7.1560163418.3640343,Incoming,Call,Missed,"+91 8839842988",,IN,AP,13,"10-Jun-2019, 4:13 PM ","Vivek Gupta ext. 10 (missed)  |","General   Enquiry",IVR,No,,,1,1,0,0
+s7.1560163026.3638959,Incoming,Call,Missed,"+91 8586848544",,IN,DL,14,"10-Jun-2019, 4:07 PM ",,Sales,IVR,No,,,1,1,0,0
+1559808586.5cf61c20c7736727,Outgoing,SMS,Success,"+91 7290028828",Ayushi,IN,DL,0,"06-Jun-2019, 1:39 PM ",,,IVR,No,,,0,0,0,0
+s7.1559808255.3074759,Incoming,Call,Connected,"+91 7290028828",,IN,DL,60,"06-Jun-2019, 1:34 PM ","Test ext. 11 (received)  |",Sales,IVR,No,,,1,1,0,0
+s7.1559808213.3074613,Incoming,Call,Missed,"+91 7290028828",,IN,DL,27,"06-Jun-2019, 1:33 PM ",,,IVR,No,,,1,1,0,0
+s6.1559808067.10318449,Incoming,Call,Voicemail,"+91 8302674106",,IN,RJ,30,"06-Jun-2019, 1:31 PM ",,Sales,IVR,No,,,1,1,0,0
