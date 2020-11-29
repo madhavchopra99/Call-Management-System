@@ -9,66 +9,42 @@ Call Management Portal
 {% block content %}
 
 {% if exception %}
-
-<div class="alert alert-warning">
-
+<br>
+<div class="alert alert-warning alert-dissmissible">
+	<button type="button" class="close" data-dismiss="alert">&times;</button>
   <strong>Warning!</strong> Please select the files Correctly.
 
 </div>
-
 {% endif %}
-
-<br><br><br>
-
+<br>
 <form method="post" enctype="multipart/form-data">
 
 	{% csrf_token %}<! cross-site thieft forgery token >
-
-	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
-
-	Upload IVR data Here: &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <input type="file" name="ivr" />
-
-	<br>
-
-	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
-
-	Upload Mobile data Here: &nbsp &nbsp &nbsp <input type="file" id="file" name="mobile" style="margin-bottom: 20px;" />
-
-	<br><br>
-
-	<div class="col-md-6">
-
-		<button type="submit" id="submit" style="margin-left: 650px;" disabled="disabled">Submit</button>
-
+	<div class="row form-group">
+		<label class="col-sm-3 col-form-label">Upload IVR data Here:</label>
+		<input type="file" name="ivr" class="col-sm-5 form-control-file" required="required">
 	</div>
+	<div class="form-group row">
+		<label class="col-sm-3 col-form-label">Upload Mobile data Here:</label>
+		<input type="file" name="mobile" class="col-sm-5 form-control-file" required="required">
+	</div>
+	<input type="submit" name="" class="btn btn-primary offset-sm-3" value="Submit">
 
 </form>
 
-<script>
-
-	$(document).ready(function(){
-	$('#file').change(function(){
-		$('#submit').removeAttr('disabled');
-	});
-});
-
-</script>
-
-<br><br>
-
 {% if result %}
+<br><br>
+<div class="row d-flex justify-content-sm-center">
 
-<div class="row">
+	<div class="col-sm-2">
 
-	<div class="col-md-6">
-
-		<a href="{% url 'ivr_histogram' %}" target="_blank"><button>Data Analytics</button></a>
+		<a href="{% url 'ivr_histogram' %}" target="_blank" class="btn btn-outline-success">Data Analytics</a>
 
 	</div>
 
-	<div class="col-md-6">
+	<div class="col-sm-2">
 
-		<a href="{% url 'result' %}" target="_blank"><button>Result</button></a>
+		<a href="{% url 'result' %}" target="_blank" class="btn btn-outline-success">Result</a>
 
 	</div>
 

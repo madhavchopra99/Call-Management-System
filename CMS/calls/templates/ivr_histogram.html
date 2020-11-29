@@ -13,7 +13,10 @@
 
 {% block title %} Data Analysis{% endblock %}
 {% block content %}
-<img src="/media/Missed_calls.jpeg"/>
-<img src="/media/Connected_calls.jpeg" />
-<img src="/media/Voicemail.jpeg" />
+<br><br>
+<div class="row">
+<img src="/media/Missed_calls.jpeg" class="img-fluid col-sm-6" alt="Missed Calls Histogram" />
+<img src="/media/Connected_calls.jpeg" class="img-fluid col-sm-6" alt="Connected Calls Histogram" />
+<img src="/media/Voicemail.jpeg" class="img-fluid col-sm-6" alt="Voicemail Histogram" />
+</div>
 {% endblock %}

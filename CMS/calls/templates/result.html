@@ -16,16 +16,24 @@ Result
 {% endblock %}
 
 {% block content %}
-	<table border="1">
-		{% for result_line in result %}
+	<table class="table table-sm-responsive table-hover table-light">
+		<thead class="thead-dark text-capitalize">
+			{% for head in heading %}
+			<th>{{ head }}</th>
+			{% endfor %}
+		</thead>
+
+		<tbody>
+			{% for result_line in result %}
 		<tr>
 			{% for result_record in result_line %}
 			<td>
-				{{result_record}}&nbsp &nbsp &nbsp
+				{{result_record}}
 			</td>
 			{% endfor %}
 		</tr>
 		{% endfor %}}
+		</tbody>
 	</table>
 
 {% endblock %}
