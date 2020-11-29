@@ -1,4 +1,4 @@
-import os
+from pathlib import Path
 import csv
 import calls.python_scripts.analytics as analytics
 from django.conf import settings
@@ -46,10 +46,9 @@ def logs(request):
             fs.save('ivr_file.csv', ivr_file)
             fs.save('mobile.csv', mobile_file)
 
-            path_ivr = os.path.join(settings.BASE_DIR, 'media/ivr_file.csv')
-            path_mobile = os.path.join(settings.BASE_DIR, 'media/mobile.csv')
-            path_response = os.path.join(
-                settings.BASE_DIR, 'media/response.csv')
+            path_ivr = settings.BASE_DIR / 'media/ivr_file.csv'
+            path_mobile = settings.BASE_DIR / 'media/mobile.csv'
+            path_response = settings.BASE_DIR / 'media/response.csv'
 
             dump_redundancy_set = main(path_ivr, path_mobile)
 
@@ -82,7 +81,7 @@ def logs(request):
 
 def ivr_histogram(request):
 
-    path_ivr = os.path.join(settings.BASE_DIR, 'media/ivr_file.csv')
+    path_ivr = settings.BASE_DIR / 'media/ivr_file.csv'
     analytics.analyse(path_ivr)
 
     return render(request, 'ivr_histogram.html')
@@ -91,7 +90,7 @@ def ivr_histogram(request):
 def result(request):
 
     context = {}
-    path_response = os.path.join(settings.BASE_DIR, 'media/response.csv')
+    path_response = settings.BASE_DIR / 'media/response.csv'
     with open(path_response) as response:
         csv_response = csv.reader(response)
         result = []
