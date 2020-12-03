@@ -1,4 +1,3 @@
-from pathlib import Path
 import csv
 import calls.python_scripts.analytics as analytics
 from django.conf import settings
